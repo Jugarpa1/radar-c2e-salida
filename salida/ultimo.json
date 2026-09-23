@@ -1,15 +1,16 @@
 {
- "generado": "2026-09-23T15:21:29+00:00",
+ "generado": "2026-09-23T16:09:46+00:00",
  "ventana": {
   "desde": "2026-09-16",
   "hasta": "2026-09-23"
  },
  "totales": {
-  "brutos": 6743,
-  "candidatos": 20,
-  "nuevos": 20,
+  "brutos": 6786,
+  "candidatos": 25,
+  "ayudas": 5,
+  "nuevos": 25,
   "ya_enviados": 0,
-  "descartados": 6723,
+  "descartados": 6761,
   "avisos_buzon": 0
  },
  "buzon_configurado": false,
@@ -67,6 +68,66 @@
     "CPV núcleo 71300000",
     "objeto: simulacion",
     "organismo prioritario: ifmif"
+   ]
+  },
+  {
+   "id": "bdns:930694",
+   "fuente": "BDNS",
+   "clase": "ayuda",
+   "fecha_publicacion": "2026-09-21",
+   "ambito": "LOCAL",
+   "organismo": "DIPUTACIÓN PROV. DE CASTELLÓN / DIPUTACIÓN PROVINCIAL DE CASTELLÓ/CASTELLÓN",
+   "titulo": "CONVENIO UNIVERSITAT JAUME I: CÁTEDRA DE COHESIÓN E INNOVACIÓN TERRITORIAL",
+   "objeto": "Investigación, desarrollo e innovación",
+   "bases_reguladoras": "Ley General de Subvenciones 38/2003 de 17 de noviembre",
+   "expediente": "930694",
+   "importe": 30000,
+   "beneficiarios": "PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+   "regiones": "ES522 - Castellón / Castelló",
+   "sectores": "Servicios de investigación y seguridad",
+   "fecha_inicio": "",
+   "fecha_limite": "",
+   "cpv": [],
+   "enlaces": [
+    "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/930694",
+    "https://bop.dipcas.es/PortalBOP/api/descargarAnuncio?idAnuncio=163677&idioma=es"
+   ],
+   "puntuacion": 6,
+   "rama": "ayuda",
+   "motivos": [
+    "objeto: innovacion",
+    "convocante de la Comunitat Valenciana",
+    "admite empresas"
+   ]
+  },
+  {
+   "id": "bdns:929974",
+   "fuente": "BDNS",
+   "clase": "ayuda",
+   "fecha_publicacion": "2026-09-16",
+   "ambito": "LOCAL",
+   "organismo": "VALENCIA / FUNDACIÓN DE LA CV PARA LA PROMOCIÓN ESTRATÉGICA, EL DESARROLLO Y LA INNOVACIÓN URBANA (INNDEA)",
+   "titulo": "Convocatoria de Subvenciones en especie, en régimen de concurrencia competitiva, para la selección de un máximo de diez startups del ecosistema innovador valenciano en el stand institucional de València Innovation Capital en SportCities 2026",
+   "objeto": "Investigación, desarrollo e innovación",
+   "bases_reguladoras": "Convocatoria de Subvenciones en especie, en régimen de concurrencia competitiva, para la selección de un máximo de diez startups del ecosistema innovador valenciano en el stand institucional de València Innovation Capital en SportCities 2026",
+   "expediente": "929974",
+   "importe": 5000,
+   "beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+   "regiones": "ES523 - Valencia / València",
+   "sectores": "Investigación y desarrollo; Otras actividades profesionales, científicas y técnicas n.c.o.p.",
+   "fecha_inicio": "",
+   "fecha_limite": "",
+   "cpv": [],
+   "enlaces": [
+    "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/929974",
+    "https://valenciainnovationcapital.com/wp-content/uploads/2026/09/260914-R260-26-Resolucion-relacion-prov_WSL26_firmado.pdf"
+   ],
+   "puntuacion": 6,
+   "rama": "ayuda",
+   "motivos": [
+    "objeto: startup, innovacion",
+    "convocante de la Comunitat Valenciana",
+    "admite empresas"
    ]
   },
   {
@@ -504,6 +565,93 @@
    "rama": "especializada",
    "motivos": [
     "entorno extremo: acelerador"
+   ]
+  },
+  {
+   "id": "bdns:931088",
+   "fuente": "BDNS",
+   "clase": "ayuda",
+   "fecha_publicacion": "2026-09-22",
+   "ambito": "ESTADO",
+   "organismo": "MINISTERIO DE INDUSTRIA Y TURISMO / DIRECCIÓN GENERAL DE PROGRAMAS INDUSTRIALES",
+   "titulo": "Orden por la que se efectúa la convocatoria correspondiente al año 2026 de la Línea 2 del Programa Auto+",
+   "objeto": "Industria y Energía",
+   "bases_reguladoras": "Real Decreto 609/2026, de 22 de julio, por el que se regula la concesión directa de ayudas a la compra de vehículos eléctricos y electrificados (Programa Auto+).",
+   "expediente": "931088",
+   "importe": 50000000,
+   "beneficiarios": "PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+   "regiones": "ES - ESPAÑA",
+   "sectores": "Fabricación de vehículos de motor, remolques y semirremolques",
+   "fecha_inicio": "",
+   "fecha_limite": "",
+   "cpv": [],
+   "enlaces": [
+    "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/931088",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16010"
+   ],
+   "puntuacion": 3,
+   "rama": "ayuda",
+   "motivos": [
+    "ámbito estatal",
+    "admite empresas"
+   ]
+  },
+  {
+   "id": "bdns:929846",
+   "fuente": "BDNS",
+   "clase": "ayuda",
+   "fecha_publicacion": "2026-09-16",
+   "ambito": "ESTADO",
+   "organismo": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES / SECRETARÍA GENERAL DE FORMACIÓN PROFESIONAL",
+   "titulo": "SUBVENCIONES A ENTIDADES DE FORMACIÓN PARA LA FINANCIACIÓN DE ACCIONES FORMATIVAS DIRIGIDAS A PERSONAS TRABAJADORAS Y VINCULADAS AL CATÁLOGO NACIONAL DE ESTÁNDARES DE\nCOMPETENCIAS PROFESIONALES, EN EL SECTOR DEL TRANSPORTE POR CARRETERA.",
+   "objeto": "Fomento del Empleo",
+   "bases_reguladoras": "Orden EFP/705/2022, de 20 de julio (BOE 26 de julio) por la que se establecen las BBRR para la concesión de subvenciones para la financiación de acciones formativas vinculadas al CNCFP y su modificación por la Orden EFP/1189/2023, de 30 de octubre.",
+   "expediente": "929846",
+   "importe": 5000000,
+   "beneficiarios": "GRAN EMPRESA; PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+   "regiones": "ES - ESPAÑA",
+   "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO; EDUCACIÓN",
+   "fecha_inicio": "",
+   "fecha_limite": "",
+   "cpv": [],
+   "enlaces": [
+    "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/929846",
+    "https://www.boe.es/boe/dias/2023/11/01/pdfs/BOE-A-2023-22355.pdf"
+   ],
+   "puntuacion": 3,
+   "rama": "ayuda",
+   "motivos": [
+    "ámbito estatal",
+    "admite empresas"
+   ]
+  },
+  {
+   "id": "bdns:929820",
+   "fuente": "BDNS",
+   "clase": "ayuda",
+   "fecha_publicacion": "2026-09-16",
+   "ambito": "ESTADO",
+   "organismo": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES / SECRETARÍA GENERAL DE FORMACIÓN PROFESIONAL",
+   "titulo": "SUBVENCIONES A ENTIDADES DE FORMACIÓN PARA LA FINANCIACIÓN DE ACCIONES FORMATIVAS EN EL ÁMBITO DE LA PREVENCIÓN Y ACTUACIÓN ANTE EMERGENCIAS NATURALES E INCENDIOS, VINCULADAS AL CATÁLOGO NACIONAL DE ESTÁNDARES DE COMPETENCIAS PROFESIONALES, 2026",
+   "objeto": "Fomento del Empleo",
+   "bases_reguladoras": "Orden EFP/705/2022, de 20 de julio, (BOE 26 de julio) por la que se establecen las BBRR para la concesión de subvenciones para la financiación de acciones formativas vinculadas al CNCFP y su modificación por la Orden EFP/1189/2023, de 30 de octubre.",
+   "expediente": "929820",
+   "importe": 5000000,
+   "beneficiarios": "GRAN EMPRESA; PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA; PYME Y PERSONAS FÍSICAS QUE DESARROLLAN ACTIVIDAD ECONÓMICA",
+   "regiones": "ES - ESPAÑA",
+   "sectores": "ACTIVIDADES ARTÍSTICAS, DEPORTIVAS Y DE ENTRETENIMIENTO; EDUCACIÓN",
+   "fecha_inicio": "",
+   "fecha_limite": "",
+   "cpv": [],
+   "enlaces": [
+    "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/929820",
+    "https://www.boe.es/eli/es/o/2022/07/20/efp705"
+   ],
+   "puntuacion": 3,
+   "rama": "ayuda",
+   "motivos": [
+    "ámbito estatal",
+    "admite empresas"
    ]
   }
  ],
@@ -979,6 +1127,28 @@
    ]
   },
   {
+   "id": "bdns:931042",
+   "titulo": "Resolución de 22 de septiembre de 2026 de la Presidencia de la Agencia Estatal de Investigación, por la que se aprueba la convocatoria 2026 de ayudas del Programa de Doctorados Industriales (actividad",
+   "fuente": "BDNS",
+   "puntuacion": 2,
+   "motivos": [
+    "objeto: innovacion",
+    "ámbito estatal",
+    "no admite empresas (-3): PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ]
+  },
+  {
+   "id": "bdns:929942",
+   "titulo": "Beneficios fiscales, en el marco del Régimen especial de las Illes Balears, aprobado por la Ley 31/2022, de 23 de diciembre, de PGE para el año 2023 y Real Decreto 710/2024, de 23 de julio, por el que",
+   "fuente": "BDNS",
+   "puntuacion": 2,
+   "motivos": [
+    "ámbito estatal",
+    "admite empresas",
+    "plazo cerrado el 2025-12-31 (-1)"
+   ]
+  },
+  {
    "id": "placsp:306776-306982",
    "titulo": "Servicio de mantenimiento del animalario del CIEMAT, del laboratorio de cultivos celulares asociado y del módulo aislado de alta contención biológica para desarrollos terapéuticos avanzados, en la uni",
    "fuente": "PLACSP",
@@ -987,6 +1157,18 @@
     "CPV núcleo 73111000",
     "organismo prioritario: ciemat",
     "veto (-3): mantenimiento, animalario"
+   ]
+  },
+  {
+   "id": "bdns:930798",
+   "titulo": "RESOLUCIÓN  DE  LA  SECRETARIA  DE  ESTADO  DE  CIENCIA,  INNOVACIÓN  Y \nUNIVERSIDADES  POR  LA  QUE  SE  CONCEDE  A  LA  CONFEDERACIÓN  DE \nSOCIEDADES CIENTÍFICAS DE ESPAÑA (COSCE) LA SUBVENCIÓN PREV",
+   "fuente": "BDNS",
+   "puntuacion": 1,
+   "motivos": [
+    "objeto: innovacion",
+    "ámbito estatal",
+    "no admite empresas (-3): PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "plazo cerrado el 2026-09-20 (-1)"
    ]
   },
   {
@@ -1433,27 +1615,6 @@
   {
    "id": "placsp:SDA01-23022026",
    "titulo": "SDA Suministro de material de merchandising",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "placsp:10421/2026",
-   "titulo": "Realización de pruebas psicotécnicas en procesos selectivos de la Policía Local.",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "placsp:412/2026",
-   "titulo": "Ejecución de las obras comprendidas en el \"Proyecto básico y de ejecución de instalación de fachada ventilada en la Casa de la Cultura de Barlovento\".",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "placsp:2026/60162465",
-   "titulo": "Contratación, mediante procedimiento abierto, del suministro de un equipo rebobinador de torreta para realizar el bobinado de las etiquetas adhesivas procesadas en la línea Omega II del Departamento d",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
