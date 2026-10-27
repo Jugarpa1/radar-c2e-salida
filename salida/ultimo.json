@@ -1,16 +1,16 @@
 {
- "generado": "2026-10-23T10:48:58+00:00",
+ "generado": "2026-10-27T11:13:39+00:00",
  "ventana": {
-  "desde": "2026-10-22",
-  "hasta": "2026-10-23"
+  "desde": "2026-10-23",
+  "hasta": "2026-10-27"
  },
  "totales": {
-  "brutos": 2072,
-  "candidatos": 6,
+  "brutos": 3979,
+  "candidatos": 17,
   "ayudas": 0,
-  "nuevos": 3,
-  "ya_enviados": 3,
-  "descartados": 2066,
+  "nuevos": 10,
+  "ya_enviados": 7,
+  "descartados": 3962,
   "avisos_buzon": 0
  },
  "buzon_configurado": false,
@@ -18,20 +18,43 @@
  "avisos": [],
  "candidatos": [
   {
-   "id": "placsp:LICT/99/159/2025/0146",
+   "id": "placsp:AGA-2026-20088",
    "fuente": "PLACSP",
-   "fecha_publicacion": "2026-10-22",
-   "organismo": "Director Gerente de FREMAP",
-   "titulo": "Contratación del suministro de equipamiento y mobiliario y pequeño utillaje clínico para los Centros Sanitarios de FREMAP, Mutua Colaboradora con la Seguridad Social nº 61",
-   "objeto": "Contratación del suministro de equipamiento y mobiliario y pequeño utillaje clínico para los Centros Sanitarios de FREMAP, Mutua Colaboradora con la Seguridad Social nº 61",
-   "expediente": "LICT/99/159/2025/0146",
-   "importe": "603536.8 €",
-   "fecha_limite": "2026-09-02",
+   "fecha_publicacion": "2026-10-26",
+   "organismo": "Departamento de Agricultura, Ganadería y Alimentación del Gobierno de Aragón",
+   "titulo": "Suministro de tubos para extracción de sangre al vacío.",
+   "objeto": "Suministro de tubos para extracción de sangre al vacío.",
+   "expediente": "AGA-2026-20088",
+   "importe": "72085.75 €",
+   "fecha_limite": "2026-11-03",
    "cpv": [
-    "33100000"
+    "33141000"
    ],
    "enlaces": [
-    "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=yhDooIm2wwQ2wEhQbcAqug%3D%3D"
+    "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KZbuHaOQXJrI8aL3PRS10Q%3D%3D"
+   ],
+   "puntuacion": 3,
+   "rama": "especializada",
+   "motivos": [
+    "entorno extremo: vacio"
+   ]
+  },
+  {
+   "id": "placsp:2026/SSU/000973",
+   "fuente": "PLACSP",
+   "fecha_publicacion": "2026-10-26",
+   "organismo": "Vicepresidencia del Instituto Municipal de Deportes del Ayuntamiento de Sevilla",
+   "titulo": "Suministro herramientas, maquinarias y utillaje para el IMD",
+   "objeto": "Suministro herramientas, maquinarias y utillaje para el IMD",
+   "expediente": "2026/SSU/000973",
+   "importe": "135000 €",
+   "fecha_limite": "2026-11-10",
+   "cpv": [
+    "44316000",
+    "43830000"
+   ],
+   "enlaces": [
+    "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2FG%2Bi2tLFVgvIGlsa0Wad%2Bw%3D%3D"
    ],
    "puntuacion": 3,
    "rama": "general",
@@ -40,51 +63,216 @@
    ]
   },
   {
-   "id": "placsp:582026069600",
-   "fuente": "PLACSP",
-   "fecha_publicacion": "2026-10-22",
-   "organismo": "Dirección General del INTA",
-   "titulo": "Prototipo del procesador QKD para la misión Q-ANSER",
-   "objeto": "Prototipo del procesador QKD para la misión Q-ANSER",
-   "expediente": "582026069600",
-   "importe": "112530 €",
-   "fecha_limite": "2026-09-15",
+   "id": "ted:738237-2026",
+   "fuente": "TED",
+   "fecha_publicacion": "2026-10-26",
+   "organismo": "FAIR - Facility for Antiproton and Ion Research in Europe GmbH",
+   "titulo": "Alemania – Aceleradores de partículas – Compressed Air Components for FAIR",
+   "objeto": "Alemania – Aceleradores de partículas – Compressed Air Components for FAIR",
+   "expediente": "738237-2026",
+   "importe": "",
+   "fecha_limite": "2026-11-16",
    "cpv": [
-    "31710000"
+    "31643000",
+    "31643000"
    ],
    "enlaces": [
-    "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Pr5xBNWXRRN%2FP7lJ7Fu0SA%3D%3D"
+    "https://ted.europa.eu/es/notice/-/detail/738237-2026"
+   ],
+   "puntuacion": 3,
+   "rama": "especializada",
+   "motivos": [
+    "entorno extremo: acelerador"
+   ]
+  },
+  {
+   "id": "placsp:TC-2026-055",
+   "fuente": "PLACSP",
+   "fecha_publicacion": "2026-10-23",
+   "organismo": "Dirección General de la Fundación Ciudad de la Energía",
+   "titulo": "Concurso de Proyectos con intervención de Jurado para el diseño y desarrollo de una exposición interactiva sobre indumentaria, identidad, folclore y transformación en las zonas de Transición Justa tramitado por la FUNDACIÓN CIUDAD DE LA ENERGÍA-CIUDEN, F.S.P.",
+   "objeto": "Concurso de Proyectos con intervención de Jurado para el diseño y desarrollo de una exposición interactiva sobre indumentaria, identidad, folclore y transformación en las zonas de Transición Justa tramitado por la FUNDACIÓN CIUDAD DE LA ENERGÍA-CIUDEN, F.S.P.",
+   "expediente": "TC-2026-055",
+   "importe": "786500 €",
+   "fecha_limite": "2026-11-23",
+   "cpv": [
+    "92521000",
+    "92500000"
+   ],
+   "enlaces": [
+    "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=VVGzt7zpwW1VYjgxA4nMUw%3D%3D"
    ],
    "puntuacion": 3,
    "rama": "general",
    "motivos": [
-    "objeto: prototipo"
+    "objeto: diseno y desarrollo"
    ]
   },
   {
-   "id": "placsp:2026/ETSAE0904/00000646E",
+   "id": "placsp:2.26/20830.0174",
    "fuente": "PLACSP",
-   "fecha_publicacion": "2026-10-22",
-   "organismo": "Sección de Asuntos Económicos de la Jefatura Sistemas de Información, Telecomunicaciones y Asistencia Técnica",
-   "titulo": "Servicio de consultoría y asistencia técnica para la implantación de una solución de transformación automatizada de datos MUVD para simulación.",
-   "objeto": "Servicio de consultoría y asistencia técnica para la implantación de una solución de transformación automatizada de datos MUVD para simulación.",
-   "expediente": "2026/ETSAE0904/00000646E",
-   "importe": "121000 €",
-   "fecha_limite": "2026-11-07",
+   "fecha_publicacion": "2026-10-26",
+   "organismo": "ADIF Alta Velocidad - Presidencia",
+   "titulo": "Consultoría y asistencia técnica para simulación de marchas tipo, análisis funcional, estudios de capacidad y operación en la Red Ferroviaria de Interés General en régimen de pedido abierto",
+   "objeto": "Consultoría y asistencia técnica para simulación de marchas tipo, análisis funcional, estudios de capacidad y operación en la Red Ferroviaria de Interés General en régimen de pedido abierto",
+   "expediente": "2.26/20830.0174",
+   "importe": "886722.24 €",
+   "fecha_limite": "2026-11-27",
    "cpv": [
-    "72220000"
+    "71311230"
    ],
    "enlaces": [
-    "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=eVdSp6eJLxVSYrkJkLlFdw%3D%3D"
+    "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ZIj1vtZxzhyIzo3LHNPGcQ%3D%3D"
    ],
    "puntuacion": 3,
    "rama": "general",
    "motivos": [
     "objeto: simulacion"
    ]
+  },
+  {
+   "id": "placsp:2026/EA02/00000988E",
+   "fuente": "PLACSP",
+   "fecha_publicacion": "2026-10-26",
+   "organismo": "Dirección de Adquisiciones del Mando de Apoyo Logístico del Ejército del Aire y del Espacio",
+   "titulo": "20264004 Suministro de cuatro equipos posicionadores de cargas de armamento de 4.000 libras de capacidad de carga",
+   "objeto": "20264004 Suministro de cuatro equipos posicionadores de cargas de armamento de 4.000 libras de capacidad de carga",
+   "expediente": "2026/EA02/00000988E",
+   "importe": "1394000 €",
+   "fecha_limite": "2026-12-18",
+   "cpv": [
+    "35820000"
+   ],
+   "enlaces": [
+    "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=etRlpuBt4HtVq4S9zvaQpQ%3D%3D"
+   ],
+   "puntuacion": 3,
+   "rama": "especializada",
+   "motivos": [
+    "entorno extremo: posicionador"
+   ]
+  },
+  {
+   "id": "placsp:2026/AR46U/00001815E",
+   "fuente": "PLACSP",
+   "fecha_publicacion": "2026-10-26",
+   "organismo": "Intendente de Rota",
+   "titulo": "Suministro de utillaje y equipamiento auxiliar para la 14 Escuadrilla de Aeronaves.",
+   "objeto": "Suministro de utillaje y equipamiento auxiliar para la 14 Escuadrilla de Aeronaves.",
+   "expediente": "2026/AR46U/00001815E",
+   "importe": "72500 €",
+   "fecha_limite": "2026-12-30",
+   "cpv": [
+    "44510000"
+   ],
+   "enlaces": [
+    "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=wiORH%2BJlSO2S81gZFETWmA%3D%3D"
+   ],
+   "puntuacion": 3,
+   "rama": "general",
+   "motivos": [
+    "objeto: utillaje"
+   ]
+  },
+  {
+   "id": "ted:739615-2026",
+   "fuente": "TED",
+   "fecha_publicacion": "2026-10-26",
+   "organismo": "ADIF-AltaVelocidad",
+   "titulo": "España – Servicios de ingeniería ferroviaria – Consultoría y asistencia técnica para simulación de marchas tipo, análisis funcional, estudios de capacidad y operación en la Red Ferroviaria de Interés General en régimen de pedido abierto",
+   "objeto": "España – Servicios de ingeniería ferroviaria – Consultoría y asistencia técnica para simulación de marchas tipo, análisis funcional, estudios de capacidad y operación en la Red Ferroviaria de Interés General en régimen de pedido abierto",
+   "expediente": "739615-2026",
+   "importe": "732828.3",
+   "fecha_limite": "",
+   "cpv": [
+    "71311230",
+    "71311230"
+   ],
+   "enlaces": [
+    "https://ted.europa.eu/es/notice/-/detail/739615-2026"
+   ],
+   "puntuacion": 3,
+   "rama": "general",
+   "motivos": [
+    "objeto: simulacion"
+   ]
+  },
+  {
+   "id": "ted:743910-2026",
+   "fuente": "TED",
+   "fecha_publicacion": "2026-10-27",
+   "organismo": "Paul Scherrer Institut (PSI)",
+   "titulo": "Suiza – Aceleradores de partículas – Magnet mit horizontaler Feldausrichtung und extrem breitem Strahlzugang für Neutronenstreuexperimente",
+   "objeto": "Suiza – Aceleradores de partículas – Magnet mit horizontaler Feldausrichtung und extrem breitem Strahlzugang für Neutronenstreuexperimente",
+   "expediente": "743910-2026",
+   "importe": "",
+   "fecha_limite": "",
+   "cpv": [
+    "31643000",
+    "31643000",
+    "31630000"
+   ],
+   "enlaces": [
+    "https://ted.europa.eu/es/notice/-/detail/743910-2026"
+   ],
+   "puntuacion": 3,
+   "rama": "especializada",
+   "motivos": [
+    "entorno extremo: acelerador"
+   ]
+  },
+  {
+   "id": "ted:744033-2026",
+   "fuente": "TED",
+   "fecha_publicacion": "2026-10-27",
+   "organismo": "FAIR - Facility for Antiproton and Ion Research in Europe GmbH",
+   "titulo": "Alemania – Aceleradores de partículas – Switchable Beam Dump",
+   "objeto": "Alemania – Aceleradores de partículas – Switchable Beam Dump",
+   "expediente": "744033-2026",
+   "importe": "715000",
+   "fecha_limite": "",
+   "cpv": [
+    "31643000",
+    "31643000"
+   ],
+   "enlaces": [
+    "https://ted.europa.eu/es/notice/-/detail/744033-2026"
+   ],
+   "puntuacion": 3,
+   "rama": "especializada",
+   "motivos": [
+    "entorno extremo: acelerador"
+   ]
   }
  ],
  "descartados": [
+  {
+   "id": "placsp:322026",
+   "titulo": "Servicios de apoyo para la realización de un Plan de activación de la IA en las pymes del sector turístico. Las necesidades a satisfacer se especifican con mayor detalle en el PLIEGO DE PRESCRIPCIONES",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 73000000"
+   ]
+  },
+  {
+   "id": "placsp:CS/2026/31",
+   "titulo": "Contratación del servicio de redacción de proyectos para la optimización del rendimiento y digitalización en las redes de abastecimiento de 15 núcleos de población de la provincia de Ávila. Cofinancia",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "placsp:465/26",
+   "titulo": "Servicio de asistencia técnica para la identificación, caracterización y análisis del ecosistema agroalimentario y forestal de la provincia de Badajoz, y para el diseño e implantación del Registro Pro",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 73000000"
+   ]
+  },
   {
    "id": "placsp:376/2026",
    "titulo": "Servicio de redacción de proyectos, dirección facultativa de las obras y coordinación de seguridad y salud, dividido en siete lotes, mediante procedimiento abierto, tramitación urgente, financiación F",
@@ -95,8 +283,26 @@
    ]
   },
   {
-   "id": "placsp:3.26/27506.0028",
-   "titulo": "Servicio de asistencia técnica para el control de las obras de ejecución de nueva vía y electrificación en la estación de Bezana (Cantabria) de la línea 770 Santander - Oviedo",
+   "id": "placsp:SE-34-26",
+   "titulo": "Evaluación ecotoxicológica y validación ambiental de efluentes mineros tratados mediante tecnología DAS en la Cuenca del Río Odiel. (Cofinanciado por la Unión Europea a través del Fondo Europeo de Des",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 73111000"
+   ]
+  },
+  {
+   "id": "placsp:SE-33-26",
+   "titulo": "Caracterización mediante microscopía electrónica de transmisión de alta resolución y micro-tomografía de rayos X de precipitados de Cu y Zn en sistemas de tratamiento pasivo DAS en la Faja Pirítica Ib",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 73111000"
+   ]
+  },
+  {
+   "id": "placsp:202600000252",
+   "titulo": "Suministro e instalación de hardware/software para la actualización y ampliación del actual sistema de gestión y control centralizado de las instalaciones de climatización e iluminación de los edifici",
    "fuente": "PLACSP",
    "puntuacion": 2,
    "motivos": [
@@ -104,12 +310,66 @@
    ]
   },
   {
-   "id": "placsp:90/26/CAR",
-   "titulo": "T-893. Servicios de apoyo a la gestión de las expropiaciones de los bienes y derechos afectados por los proyectos de construcción previstos para los años 2027, 2028 y 2029.",
+   "id": "placsp:CMAYOR/2026/EPSAR/0079",
+   "titulo": "Dirección de las obras de construcción del tratamiento terciario de la EDAR de Xixona (Alicante)",
    "fuente": "PLACSP",
    "puntuacion": 2,
    "motivos": [
     "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "placsp:CMAYOR/2026/EPSAR/0111",
+   "titulo": "Asistencia técnica para la redacción del III Plan Director de Saneamiento, Depuración y Reutilización de la Comunitat Valenciana.",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "placsp:773/2026",
+   "titulo": "Servicios complementarios de redacción del proyecto de ejecución, coordinación de seguridad y salud en la elaboración del proyecto, dirección de obra, dirección de ejecución de obra, coordinación de s",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "placsp:IA405AT01",
+   "titulo": "Asistencia Técnica en la definición de la estrategia de marca de BILBAO Ría 2000 y su implementación en el diseño, desarrollo y aplicación en la identidad corporativa",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 73000000"
+   ]
+  },
+  {
+   "id": "placsp:A03_2026",
+   "titulo": "Redacción del proyecto técnico de ampliación del sistema de defensa contra incendios forestales \"Proyecto Guardian\" en el municipio de Paterna",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "placsp:2026066SERNE",
+   "titulo": "Servicio para el desarrollo de la siguiente actividad del proyecto Upscaling Agroecological Food Production from Bioponics and Aquaponic (AGROECOPONICS) de la Universidad Rey Juan Carlos (URJC): Activ",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 73100000"
+   ]
+  },
+  {
+   "id": "placsp:2026051",
+   "titulo": "Contrato del servicio de análisis avanzados de metabolómica y proteómica mediante espectrometría de masas de alta resolución para ejecución del proyecto PI25/01015.",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 73100000"
    ]
   },
   {
@@ -122,8 +382,62 @@
    ]
   },
   {
-   "id": "placsp:13529/2026",
-   "titulo": "Asistencia técnica, jurídica y administrativa especializada para apoyar al Ayuntamiento de La Oliva en la gestión, ejecución, seguimiento, control y justificación de los fondos FEDER vinculados al PAI",
+   "id": "placsp:017-OBR-2026",
+   "titulo": "Proyecto y construcción de Ampliación de Instalación Fotovoltaica para autoconsumo con excedentes en ETAP La Contraparada, Fase 2",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "placsp:XP0348/2024",
+   "titulo": "Redacción del proyecto y la dirección facultativa. Ver apartado B.1) del cuadro de características del PCAP",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "placsp:3.26/27507.0128",
+   "titulo": "Servicios de consultoría y asistencia para el control de la finalización de las obras y documentación, asociada a las obras de ejecución del proyecto de construcción para la duplicación de vía, de la ",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "placsp:E2026007204",
+   "titulo": "Establecimiento de un sistema dinámico de adquisición para servicios de consultoría de ingeniería ambiental y servicios forestales de la Consejería del Medio Natural, Sostenibilidad, Seguridad y Emerg",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "placsp:PC-MER/2026/00034-ORD",
+   "titulo": "Contrato conjunto para la redacción del proyecto industrial de señalización y el suministro e instalación de cartelería del proyecto de señalización del Hervidero. REFª. PC-MER/2026/00034-ORD",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71320000"
+   ]
+  },
+  {
+   "id": "placsp:28058/2026",
+   "titulo": "Servicio de asistencia técnica para la adecuación del proyecto de la travesía urbana EI-10, TM Eivissa PRIMER TRAMO, documento ambiental, estudio movilidad DF y ESS",
+   "fuente": "PLACSP",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "placsp:CF_24_2026",
+   "titulo": "Contrato de servicios para la aplicación de la Guía de recomendaciones para la elaboración de planes locales de actuación ante el riesgo de inundaciones para entidades locales de la Red Española de Ci",
    "fuente": "PLACSP",
    "puntuacion": 2,
    "motivos": [
@@ -131,62 +445,8 @@
    ]
   },
   {
-   "id": "placsp:5187/2026",
-   "titulo": "Servicios técnicos necesarios para la redacción de los proyectos, dirección de las obras y coordinación de seguridad y salud de diversas actuaciones del Ayuntamiento de Huétor Vega.",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ]
-  },
-  {
-   "id": "placsp:7828/2026",
-   "titulo": "Dirección facultativa de la obra de mejora de la eficiencia energética de los campos de fútbol del municipio de La Oliva (por lotes) con cargo estrategia de desarrollo integrado local (edil) proyecto ",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ]
-  },
-  {
-   "id": "placsp:3513/2026",
-   "titulo": "Prestacion del servicio de asistencia tecnica integral para la planificacion contractual, el seguimiento tecnico, economico, contractual, documental y la posterior preparacion de la justificacion y ci",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ]
-  },
-  {
-   "id": "placsp:2.26/21506.0042",
-   "titulo": "Realización de inspecciones y revisiones de instalaciones y equipos requeridas por normativas en las líneas de alta velocidad en explotación mantenidas por la subdirección de operaciones de alta veloc",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ]
-  },
-  {
-   "id": "placsp:NSP-5EN8S003",
-   "titulo": "Servicio de conformado de fondos elípticos",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ]
-  },
-  {
-   "id": "placsp:SDA33/2026",
-   "titulo": "Servicio de asistencia, consultoría y asesoramiento técnico, redacción de proyectos, direcciones de obras y trabajos de apoyo técnico para el seguimiento de obras y servicios de EMACSA",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ]
-  },
-  {
-   "id": "placsp:70-26 (5308)",
-   "titulo": "Contratación de la Obra de adecuación, renovación y puesta en servicio de instalaciones eléctricas de media y baja tensión en instalaciones gestionadas por ACOSOL, S.A.- ACTUACIÓN PARA LA ADECUACIÓN E",
+   "id": "placsp:2690/2026",
+   "titulo": "Elbaoración de proyecto y Cubrición pista polideportiva CEIP José Plata",
    "fuente": "PLACSP",
    "puntuacion": 2,
    "motivos": [
@@ -194,8 +454,8 @@
    ]
   },
   {
-   "id": "placsp:2025039534 (Ref. 2803)",
-   "titulo": "Redacción del Plan especial de protección del Sitio Histórico de las Fuentes Termales de As Burgas y del Conjunto histórico de Ourense  (PEP-OU)",
+   "id": "placsp:CON-SERV-2026000073",
+   "titulo": "Servicio de Dirección Facultativa de las instalaciones durante las obras de la galería de tiro de la Policía Local de Cáceres.",
    "fuente": "PLACSP",
    "puntuacion": 2,
    "motivos": [
@@ -203,36 +463,72 @@
    ]
   },
   {
-   "id": "placsp:C30259031592",
-   "titulo": "30.1089/25; SV-525/25 Consultoría y asistencia técnica para la realización de inspecciones periódicas principales de seguridad viaria en la Red de Carreteras del Estado.",
-   "fuente": "PLACSP",
+   "id": "ted:744631-2026",
+   "titulo": "España – Servicios de ingeniería – Servicios de consultoría para la redacción de proyectos de acondicionamiento y mejora del cerramiento para evitar la entrada de grandes animales a la traza ferroviar",
+   "fuente": "TED",
    "puntuacion": 2,
    "motivos": [
     "CPV núcleo 71300000"
    ]
   },
   {
-   "id": "placsp:EXO-2026/04",
-   "titulo": "Contrato para la redacción de proyecto y la ejecución de las obras de instalación correspondientes a una red de distribución en baja tensión en la zona residencial y deportiva Domingo Savio.",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71320000"
-   ]
-  },
-  {
-   "id": "placsp:56/26",
-   "titulo": "Asistencia técnica y coordinación de seguridad y salud para el servicio de gestión del tráfico de Alicante",
-   "fuente": "PLACSP",
+   "id": "ted:743341-2026",
+   "titulo": "España – Servicios de ingeniería – Servicios de consultoría y asistencia para el control de la finalización de las obras y documentación, asociada a las obras de ejecución del proyecto de construcción",
+   "fuente": "TED",
    "puntuacion": 2,
    "motivos": [
     "CPV núcleo 71300000"
    ]
   },
   {
-   "id": "placsp:FP.118.107/0311",
-   "titulo": "Tercera revisión y análisis general de la seguridad de las presas y embalses de Sichar, derivación de Sichar, Alcora y María Cristina (Castellón)",
-   "fuente": "PLACSP",
+   "id": "ted:741396-2026",
+   "titulo": "España – Servicios de ingeniería – DIRECCIÓN DE LAS OBRAS, COORDINACIÓN DE SEGURIDAD Y SALUD Y ASISTENCIA TÉCNICA DE LAS OBRAS DE EJECUCIÓN DE INSTALACIONES, Y DE LAS OBRAS DE EJECUCIÓN DE LA SEÑALIZA",
+   "fuente": "TED",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "ted:744086-2026",
+   "titulo": "España – Servicios de arquitectura y servicios conexos – A. T. para el Estudio de alternativas, redacción de proyectos básicos y revisión del modelo de gestión de la/s terminal/es de pasaje (ferris y ",
+   "fuente": "TED",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "ted:741202-2026",
+   "titulo": "España – Servicios de arquitectura y servicios conexos – Servicios de asistencia técnica en instalaciones y obras de los edificios del Senado (tres lotes).",
+   "fuente": "TED",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ]
+  },
+  {
+   "id": "ted:744148-2026",
+   "titulo": "España – Diseño y ejecución en materia de investigación y desarrollo – EJERCICIOS DE INTERCOMPARACIÓN Y EVALUACIÓN TÉCNICA DE LABORATORIOS DE CALIDAD AGROALIMENTARIA (JUNAN FQ-RGA-2026).",
+   "fuente": "TED",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 73300000"
+   ]
+  },
+  {
+   "id": "ted:738041-2026",
+   "titulo": "España – Servicios integrados de ingeniería – Servicios para la gestión integrada de las estructuras de la red foral de carreteras de Gipuzkoa (6-OF-18/2024)",
+   "fuente": "TED",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71340000"
+   ]
+  },
+  {
+   "id": "ted:739531-2026",
+   "titulo": "España – Trabajos de señalización ferroviaria – Redacción del proyecto constructivo y ejecución de obra de adaptación de la línea Sagunto-Bif. Teruel para la circulación de trenes de mercancías de 750",
+   "fuente": "TED",
    "puntuacion": 2,
    "motivos": [
     "CPV núcleo 71300000"
@@ -275,15 +571,6 @@
    ]
   },
   {
-   "id": "ted:735816-2026",
-   "titulo": "España – Servicios de arquitectura, construcción, ingeniería e inspección – SERVICIO DE ELABORACIÓN DE PROYECTO BÁSICO Y DE EJECUCIÓN, DIRECCIÓN DE OBRA, DIRECCIÓN DE EJECUCIÓN DE LA OBRA Y COORDINACI",
-   "fuente": "TED",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ]
-  },
-  {
    "id": "ted:735593-2026",
    "titulo": "España – Servicios de investigación y desarrollo y servicios de consultoría conexos – WS3208402307 [2026-0496] PS_ Proyecto Innovación UMI POWER2X",
    "fuente": "TED",
@@ -293,35 +580,8 @@
    ]
   },
   {
-   "id": "ted:736066-2026",
-   "titulo": "España – Servicios de arquitectura, construcción, ingeniería e inspección – Contratación por lotes de dirección de obra y dirección ejecución de la obra(Lote 1), y del servicio de coordinación de segu",
-   "fuente": "TED",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ]
-  },
-  {
-   "id": "ted:730433-2026",
-   "titulo": "España – Servicios de ingeniería – Servicio para la redacción de proyecto de trazado y proyecto constructivo para el acondicionamiento de la carretera EI700 entre Sant Josep de sa Talaia y Sant Antoni",
-   "fuente": "TED",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ]
-  },
-  {
-   "id": "ted:732543-2026",
-   "titulo": "España – Trabajos de señalización ferroviaria – Redacción de proyecto y ejecución de obra: instalación de bloqueo por liberación automática en vía única de la línea Xàtiva-Alcoi; plan núcleo de cercan",
-   "fuente": "TED",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ]
-  },
-  {
-   "id": "ted:731405-2026",
-   "titulo": "España – Servicios de investigación y desarrollo y servicios de consultoría conexos – Desarrollo Innovador de un supercargador bidireccional de alta potencia con funcionalidades de soporte a la red el",
+   "id": "ted:742992-2026",
+   "titulo": "Países Bajos – Servicios de investigación y desarrollo y servicios de consultoría conexos – Kansrijke aanpak burgerschapsonderwijs in Caribisch Nederland",
    "fuente": "TED",
    "puntuacion": 2,
    "motivos": [
@@ -329,12 +589,12 @@
    ]
   },
   {
-   "id": "ted:731918-2026",
-   "titulo": "España – Trabajos de señalización ferroviaria – Redacción de proyecto y ejecución de obra: instalación de bloqueo por liberación automática en vía única de la linea Xativa-Alcoi. Plan núcleo de cercan",
+   "id": "ted:743834-2026",
+   "titulo": "Alemania – Servicios de investigación y desarrollo experimental – Non-Clinical Toxicology and safety assessment of a small molecule",
    "fuente": "TED",
    "puntuacion": 2,
    "motivos": [
-    "CPV núcleo 71300000"
+    "CPV núcleo 73100000"
    ]
   },
   {
@@ -354,83 +614,6 @@
    "motivos": [
     "CPV núcleo 71320000"
    ]
-  },
-  {
-   "id": "boe:BOE-B-2026-34303",
-   "titulo": "Anuncio de licitación de: Mesa del Congreso de los Diputados. Objeto: Suministro de 425 tabletas digitales para el Congreso de los Diputados. Expediente: CON-2026/9902187.0.",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "boe:BOE-B-2026-34304",
-   "titulo": "Anuncio de licitación de: Mesa del Congreso de los Diputados. Objeto: Contrato mixto de suministro y soporte técnico de 550 terminales móviles digitales para el Congreso de los Diputados. Expediente: ",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "boe:BOE-B-2026-34306",
-   "titulo": "Anuncio de licitación de: Intendente de Rota. Objeto: AM para la digitalización e implantación de obras de modificación de buques apoyados por el Arsenal de Cádiz. Expediente: 2026/AR46U/00000661E.",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "boe:BOE-B-2026-34324",
-   "titulo": "Anuncio de licitación de: Intendente de Ferrol. Objeto: Varias unidades. TA Servicio de sostenimiento de redes de agua potable. Expediente: 2026/AR42U/00001564E.",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "boe:BOE-B-2026-34331",
-   "titulo": "Anuncio de licitación de: Junta de Contratación de los Servicios Centrales en el Ministerio de Hacienda. Objeto: Servicio bancario de cuenta corriente para el pago de haberes y retribuciones del perso",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "boe:BOE-B-2026-34334",
-   "titulo": "Anuncio de licitación de: Subdirección General de Planificacion y Gestion de Infraestructuras y Medios para la Seguridad. Objeto: Contratación del suministro de una embarcación patrullera de intervenc",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "boe:BOE-B-2026-34338",
-   "titulo": "Anuncio de licitación de: ADIF -Consejo de Administración. Objeto: Servicios de retirada vegetal mediante talas y desbroces y tratamiento de taludes y trincheras en el ámbito de la red de infraestruct",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "boe:BOE-B-2026-34341",
-   "titulo": "Anuncio de licitación de: ADIF - Presidencia. Objeto: Obras de ejecución del Proyecto Simplificado de Implantación de cerramiento de protección en estaciones de la Subdirección de Circulación Noroeste",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "boe:BOE-B-2026-34342",
-   "titulo": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Júcar. Objeto: Tercera revisión y análisis general de la seguridad de las presas y embalses de Sichar, derivación de Sichar, ",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "boe:BOE-B-2026-34346",
-   "titulo": "Anuncio de licitación de: Instituto Nacional de Estadística INE. Objeto: Recogida de Datos de la Encuesta de Inclusión Financiera 2027. Expediente: 2026N0059006.",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
-  },
-  {
-   "id": "boe:BOE-B-2026-34354",
-   "titulo": "Anuncio de licitación de: Dirección General de la Entidad Pública Empresarial RED.ES. Objeto: Servicio de apoyo a la gestión integral de servicios del área de sistemas y seguridad de RedIRIS. Expedien",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": []
   },
   {
    "id": "boe:BOE-B-2026-34447",
@@ -475,512 +658,512 @@
    "motivos": []
   },
   {
-   "id": "placsp:91/2026",
-   "titulo": "Estacion Depuradora de Aguas Residuales en San Pedro Samuel",
-   "fuente": "PLACSP",
+   "id": "boe:BOE-B-2026-34872",
+   "titulo": "Anuncio de licitación de: Jefatura de Intendencia de Asuntos Económicos Este. Objeto: Peluquería Acuartelamiento Daoíz y Velarde, Paterna, Valencia. Expediente: 2026/ETSAE0327/00006575E.",
+   "fuente": "BOE",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:165/2025.Licitación Obra",
-   "titulo": "Ejecución de las obras recogidas en el Proyecto Básico y de Ejecución de Acondicionamiento de edificio entre medianeras, redactado por Paralex Arquitectura S.L.",
-   "fuente": "PLACSP",
+   "id": "boe:BOE-B-2026-34880",
+   "titulo": "Anuncio de licitación de: Jefatura de la Sección de Asuntos Económicos de la Unidad Militar de Emergencias. Objeto: Adquisición de siete (7) máquinas automotrices teleoperadas de intervención para la ",
+   "fuente": "BOE",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2026-015224",
-   "titulo": "Organización, coordinación, producción y ejecución del programa municipal '25N 2026: Romper la cadena. Lo que\r\nata también es violencia'...Ver apartado A del Anexo I",
-   "fuente": "PLACSP",
+   "id": "boe:BOE-B-2026-34904",
+   "titulo": "Anuncio de licitación de: TGSS-Dirección provincial de Alicante. Objeto: Servicios auxiliares, transporte y logística para la Tesorería General de la Seguridad Social en la provincia de Alicante. Expe",
+   "fuente": "BOE",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:636/2026",
-   "titulo": "Mejora del entorno de la plaza de la Picota",
-   "fuente": "PLACSP",
+   "id": "boe:BOE-B-2026-35043",
+   "titulo": "Anuncio de licitación de: Jefatura de Intendencia de Asuntos Económicos Oeste. Objeto: Concesión de servicio de máquinas Vending, Acuartelamiento \"Soyeche\". Expediente: 2026/ETSAE0427/00002853E.",
+   "fuente": "BOE",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:167/2026",
-   "titulo": "La adquisición de un furgón isotermo",
-   "fuente": "PLACSP",
+   "id": "boe:BOE-B-2026-35093",
+   "titulo": "Anuncio de licitación de: Dirección de Barcelona Supercomputing Center - Centro Nacional de Supercomputación (BSC-CNS). Objeto: Servicio de marketing y secretaría técnica de eventos IA para el proyect",
+   "fuente": "BOE",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:S-03423-2026",
-   "titulo": "Programación y tutorías cursos on line",
-   "fuente": "PLACSP",
+   "id": "boe:BOE-B-2026-35095",
+   "titulo": "Anuncio de licitación de: Comisión Ejecutiva del Consorcio CENIEH. Objeto: Suministro, instalación y puesta en marcha de un espectrómetro de masas con ionización Maldi y analizador de tiempo de vuelo ",
+   "fuente": "BOE",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:1DGT2A000441",
-   "titulo": "Servicio de auditoría Interna y Externa de Certificación ENS en Gerencia de Informática (2 Lotes)",
-   "fuente": "PLACSP",
+   "id": "boe:BOE-B-2026-35099",
+   "titulo": "Anuncio de licitación de: INSS-Dirección provincial de Pontevedra. Objeto: Suministro e instalación de dos nuevas unidades enfriadoras en la cubierta del edificio sede de la DP del INSS de Pontevedra ",
+   "fuente": "BOE",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:6208/2026",
-   "titulo": "Suministro de maquinaria para los servicios generales del Ayuntamiento de Isla Cristina.",
-   "fuente": "PLACSP",
+   "id": "boe:BOE-B-2026-35104",
+   "titulo": "Anuncio de la Delegación Especial de Economía y Hacienda en la Comunidad Valenciana-Valencia sobre la rectificación del anuncio de licitación de subasta patrimonial.",
+   "fuente": "BOE",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:1350/2026",
-   "titulo": "Adquisición de 180 contedores para envases lixeiros, 156 contedores para a fracción resto e 5 contedores para papel.",
+   "id": "placsp:1469/2026",
+   "titulo": "(Pas/sum/015/2026) Suscripción de la plataforma Sicalwin Next y Aytosces",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:7129/2026",
-   "titulo": "Suministro del material vegetal  del Plan de Choque de Espacios Verdes Urbanos de Guadix",
+   "id": "placsp:2026-001",
+   "titulo": "Servicios de asistencia técnica para la elaboración del Plan Territorial Estratégico del Municipio de San Bartolomé de Tirajana",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:17/2026",
-   "titulo": "Servicio de creatividad, planificación y contratación de espacios publicitarios para la ejecución de una campaña de fomento del consumo del producto local durante la navidad 2026 para Gestión del Medi",
+   "id": "placsp:39/2026 Cristina",
+   "titulo": "Suministro Letras Corpóreas. Financiado por la Diputación Provincial de Badajoz \"Vive tu Municipio\"",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:129/2026",
-   "titulo": "Contrato de servicios para la ejecución del programa de intervención comunitaria y dinamización rural (talleres de promoción del envejecimiento activo y prevención de la dependencia) en los municipios",
+   "id": "placsp:699/2026",
+   "titulo": "(PAS/OBRAS/006/2026) Obras mejora red drenaje calle Santa Teresa- Parque Pabellón de Fuentes de Andalucía",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2026PL061",
-   "titulo": "Servicio de control de plagas de palomas mediante captura de especies en plantas de tratamiento en el Centro Ambiental de LIMASAM",
+   "id": "placsp:5223/2026/1",
+   "titulo": "Obras del proyecto para la regeneración urbana y mejora de infraestructuras públicas en calle Baleares, calle Valencia y calle Galicia, Barriada de la Paz y calle Comunidad de Aragón de Baza, incluido",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:87/2026",
-   "titulo": "Estacion Depuradora de Aguas Residuales en Marmellar de Abajo",
+   "id": "placsp:5485/2026",
+   "titulo": "Contratación del suministro de un minibús eléctrico para la localidad de Baza, financiado en el marco del Plan de Actuación Integrado PAI BAZA 2030, cofinanciado por fondos FEDER en el marco del Progr",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:PASA 26/09/000",
-   "titulo": "Contrato de obra relativo a Proyecto de acondicionamiento de jardín en Calle Jalón en el Distrito 7 Carretera de Cádiz",
+   "id": "placsp:347/2026",
+   "titulo": "Contratación mediante procedimiento abierto simplificado del contrato mixto de obras y suministro para la ejecución del Proyecto de mejora del Centro Social de Santa María del Espino (Anguita)",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2788/2026",
-   "titulo": "Se trata de cubrir la necesidad de prestar el servicio público de gimnasio municipal.",
+   "id": "placsp:26/026",
+   "titulo": "Servicios de consultoría y asistencia técnica en materia de gestión de riesgos y seguridad ferroviaria para Ferrocarrils de la Generalitat Valenciana.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2026-013144",
-   "titulo": "Prestación del servicio de apoyo a la equidad social y acompañamiento educativo intensivo, bajo la denominación de 'Programa Municipal de Compensación y Refuerzo Curricular', para menores en situación",
+   "id": "placsp:5186/2026",
+   "titulo": "Obras de los proyectos para la instalación de plantas fotovoltaicas en pozos de la Atalaya y Edar de Baza, incluido en el proyecto 2: Transición medioambiental y movilidad sostenible para una ciudad m",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:4286/2026",
-   "titulo": "Suministro e Instalación de Elementos de Juego Infantiles en el Parque del Colegio de Daganzo de Arriba (CONC-340)",
+   "id": "placsp:CE013/2026",
+   "titulo": "Contratación del servicio asistencial de enfermería para el Centro Penitenciario de Ceuta",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:13384/2025",
-   "titulo": "servicio de recogida, albergue, adopción y eliminación de animales de compañía o abandonados, perdidos o muertos en espacios públicos, y de gestión ética e integral de colonias felinas (C-2026/045)",
+   "id": "placsp:Licitación 8/2026",
+   "titulo": "Adquisición de los suministros necesarios para acometer las obras: Acabados en Ampliación de Casa Museo, PFEA 2025- Proyectos de Garantía de Rentas)",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:18002/2026",
-   "titulo": "Servicio de reserva y ocupación de plazas en Albergues para la promoción de la integración social",
+   "id": "placsp:24/2025-Almacen Cubillas 1ªFASE",
+   "titulo": "Construccion de Almacen el municipio de Cubillas de los Oteros.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:CC-C-P-0019",
-   "titulo": "Gestión, en régimen de concesión administrativa, del \"bus nàutic Palma\" en las aguas del puerto de Palma.",
+   "id": "placsp:Obras 11/2026",
+   "titulo": "Renovación de redes de Abastecimiento y Saneamiento en Calle Huertos en Alfacar (Granada)",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:SE-05/2026",
-   "titulo": "Servicios de Certificación del sistema de gestión de compromiso con las personas mayores. Auditoría externa de certificación y seguimientos",
+   "id": "placsp:1426/2026 Herrera del Duque",
+   "titulo": "Instalación fotovoltaicas de autoconsumo colectivo en edificios municipales para contribuir a la descarbonización de los servicios locales",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:18/2026-Suministros",
-   "titulo": "Suministro de vestuario técnico de intervención en rescates y material de tendido de mangueras y accesorios destinados al servicio de extinción de incendios y salvamento (S.E.I.S.) del Ayuntamiento de",
+   "id": "placsp:202503OC0031",
+   "titulo": "Servicio de apoyo a tareas de cocina para el centro de acogida de protección internacional de Mislata.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2478/2026",
-   "titulo": "Servicio integral de gestión y control horario del personal del Ayuntamiento de la Villa de Los Silos.",
+   "id": "placsp:13503/2026",
+   "titulo": "Enajenación de bien inmueble patrimonial, parcela hotelera TRH1 situada en c/ Sanlúcar esquina C/ Boca del Lobo (ref. catastral 4119501QB2141N0000GG) en el Rocío,",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:115/2026/CON",
-   "titulo": "Contrato mixto de Suministro y Servicios de cabalgata de reyes 2027 en Talavera de la Reina",
+   "id": "placsp:Obras 09/2026",
+   "titulo": "Renovación red de abastecimiento en calles Parras y La Paz de Fuente Vaqueros",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:1136/2026",
-   "titulo": "Obra de adecuación  de los equipos de medida de la instalación fotovoltaica de Alojera (La Gomera) para su adaptación a la configuración tipo 2, en el marco del encargo La Gomera 100% Sostenible, cons",
+   "id": "placsp:SFC/2026/040",
+   "titulo": "El objeto del presente contrato es la contratación del suministro de gas natural canalizado para atender la demanda energética de los distintos puntos de suministro titularidad de Servicios Funerarios",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:1/2026",
-   "titulo": "Adquisición de camión de recogida de basuras sólidas urbanas. RSU.",
+   "id": "placsp:SC 16/2026",
+   "titulo": "Servicio de voz y datos del Ayuntamiento de San Fernando",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2026/063.SER.ABRSA.M",
-   "titulo": "Calibración y certificación de tres instrumentos científicos para el Centro de Alta Tecnología y Homologación (CATECHOM) de la Universidad de Alcalá",
+   "id": "placsp:SC 114/2026",
+   "titulo": "Servicio de tren turístico para la Navidad 2026-2027.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2700G001",
-   "titulo": "Suministro de chapa laminada conforme a las normas ASME, RCC-M, EN u otras especificaciones aplicables destinada a la fabricación de componente de Equipos Nucleares, S.A., S.M.E. (ENSA)",
+   "id": "placsp:26/036",
+   "titulo": "Dirección de obra, asistencia técnica y coordinación de seguridad y salud de las obras de sustitución de cuatro escaleras mecánicas, por dos de obra y dos mecánicas, en las estaciones de Benimamet y C",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2026-012883",
-   "titulo": "Sustitución de bolardos y diversas mejoras en la Avenida 8 de marzo...Ver cláusula 4 del PCAP",
+   "id": "placsp:5100072421_REGISTROS PARA BHC",
+   "titulo": "Suministro de registros para BHC.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:UNED TENERIFE PAS 2/2026",
-   "titulo": "Servicio de revisión de las cuentas justificativas de las subvenciones concedidas por el Cabildo Insular de El Hierro UNED Tenerife, para el sostenimiento y desarrollo de las actividades de su Extensi",
+   "id": "placsp:SC 111/2026",
+   "titulo": "Servicio de organización y desarrollo de actividades infantiles durante el periodo de celebración de la Navidad 2026-2027.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:1126PA10042068",
-   "titulo": "Servicio de revisión obligatoria de la calidad del aire interior en las oficinas dependientes de la dirección provincial del Instituto Social de la Marina de Cádiz",
+   "id": "placsp:SC 66/2026",
+   "titulo": "Servicio integral de soporte en materia de proteccion de datos y externalizacion del Delegado de Proteccion de Datos del Ayuntamiento de San Fernando.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:20260609-00231",
-   "titulo": "Acuerdo marco de Servicios de realización de catas para la caracterización de estructuras existentes",
+   "id": "placsp:22046/2026",
+   "titulo": "Contratación de actuaciones artísticas, espectáculos y animación infantil con\r\nmotivo de la celebración de las Fiestas de Navidad y Año Nuevo 2026-2027 del\r\nAyuntamiento de Torremolinos",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:202605000240",
-   "titulo": "Participación del Ministerio de Agricultura, Pesca y Alimentación y de Alimentos de España en gala de presentación de la Guía Michelin España 2027 y 2028",
+   "id": "placsp:2026/7/S245 Fregenal de la Sierra",
+   "titulo": "Obras de adecuación de la Calle Mazaderos",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:54/2025",
-   "titulo": "Reurbanización de la Plaza Mayor de Briñas (La Rioja)",
+   "id": "placsp:587/2026 Calamonte",
+   "titulo": "Adquisición de un vehículo habilitado para el transporte de usuarios del Centro de Mayores \"El Chaparral\"",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:332026",
-   "titulo": "Servicios necesarios de Hosting (nube pública, privada o híbrida administrada en modo IaaS/PaaS) de las infraestructuras y los sistemas que dan servicio al portal Spain.info y de la plataforma STEP en",
+   "id": "placsp:2025/C004/000001",
+   "titulo": "Servicios necesarios para el desarrollo y organización de actividades del programa deportivo y cultural del Ayuntamiento de Abegondo",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:797/2026",
-   "titulo": "Enajenación de aprovechamientos forestales maderables de los Montes de Utilidad Pública nros. 53, 54, 55 y 56",
+   "id": "placsp:2026/C004/000002",
+   "titulo": "Prestación del servicio de atención temprana (SAT) de la agrupación de ayuntamientos de Abegondo, Bergondo y Carral",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:ICO_2026_36",
-   "titulo": "Servicio de recogida, destrucción y reciclaje de documentación confidencial del Grupo ICO",
+   "id": "placsp:661519Q",
+   "titulo": "Suministro de mobiliario , equipamiento técnico e instalación informática",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:1861972Y",
-   "titulo": "Nueva piscina municipal de Lascasas, Separata 6",
+   "id": "placsp:2026_1923294R",
+   "titulo": "Renovación de la Calle Mayor entre la bifurcación con Calle Sorripas y el cruce con Calle Crucillata, en Bielsa",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:1030/2026-2",
-   "titulo": "Obras de Acondicionamento da plataforme e humanización da rúa Carlés",
+   "id": "placsp:1428/2026 Herrera del Duque",
+   "titulo": "Suministro de iluminación y mobiliario de la calle Feria. Plan Avanzamos Diputación de Badajoz",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:ICO_2026_44",
-   "titulo": "Suscripción de licencias de integración de datos y gobierno del dato en la nube para el Instituto de Crédito Oficial (ICO).\r\nEl objeto del presente contrato es la contratación de los suministros de su",
+   "id": "placsp:P4108300G-2026/000035-PAAS",
+   "titulo": "Viario y Muro de contención Calle Sereno José García",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:SU-11/2026",
-   "titulo": "Suministro de materiales de prevención de riesgos laborales",
+   "id": "placsp:SC 104/2026",
+   "titulo": "Servicio de gestión integral, diseño, producción, organización, coordinación y ejecución de las cabalgatas de Navidad y Carnaval 2027 y 2028 de San Fernando.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:SE022/2026",
-   "titulo": "Servicios de auditorías externas para la certificación y seguimiento del sistema de gestión de quejas, según ISO 10002.",
+   "id": "placsp:2026/0006371",
+   "titulo": "Derecho de uso de productos Class web y Zoom como solución global de webconferencia en las plataformas educativas e integraciones propias de la Universidad Carlos III de Madrid.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:979/2026",
-   "titulo": "Lote de herramientas para desbroce",
+   "id": "placsp:1718/2026",
+   "titulo": "Acondicionamiento de pista deportiva en la parcela 4261601VN6946S0001OT del catastro de urbana en el Barrio del Vear de udalla nº 3 CA, obra que no requiere proyecto técnico",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:SER-26-0274-AYS",
-   "titulo": "Servicio de unidad técnica de protección radiológica (UTPR) de las instalaciones de radiodiagnóstico de umivale Activa, Mutua colaboradora con la Seguridad Social nº 3",
+   "id": "placsp:2027-A-03",
+   "titulo": "Soporte técnico y actualización de sistema Plataforma de Administración Electrónica, en adelante PAE, fundamental para el funcionamiento de la administración electrónica en la Universidad Autónoma de ",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:1723828F",
-   "titulo": "Nueva piscina municipal de Lascasas, separata 5",
+   "id": "placsp:T220004",
+   "titulo": "Proyecto de Creacion de Regadio de 1390 has para la Comunidad de regantes san isidro de Vinaceite",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:12/2026",
-   "titulo": "Adquisición vehículo camión con caja compactador de residuos sólidos urbanos de carga lateral.",
+   "id": "placsp:78/2026",
+   "titulo": "Contratación reservada a centros especiales de empleo de iniciativa social del Servicio de Control de Entrada y Accesos de la sede de la Diputación del Común (expte. 78/2026)",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:SER/2026/0000117009",
-   "titulo": "Realizacion de controles financieros sobre a Ayudas financiadas por elFEAGA,POSEI- REGIMEN ESPECIFICO DE ABASTECIMIENTO REA aentidades con la condicion de Medianas Empresas previstas en el Plan Nacion",
+   "id": "placsp:695/2026",
+   "titulo": "Adquisición de un vehículo pick-up",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:202600000109",
-   "titulo": "Contratación del servicio de seguimiento de noticias y alertas del Gabinete del Ministerio para la Transformación Digital y de la Función Pública (MTDFP).",
+   "id": "placsp:926/2026",
+   "titulo": "(PA/SERV/017/2026) A. T. externa de ingeniería a la dirección técnica de ARECIAR",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2292/2026",
-   "titulo": "El objeto del contrato es para el suministro y servicio de materiales de construcción para la ejecución de la obra\r\nmunicipal de los Proyectos denominados Acondicionamiento espacios interiores y muros",
+   "id": "placsp:CONT26066",
+   "titulo": "Asistencia técnica para la elaboración del estudio de impacto económico del Puerto de Sevilla",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:383/2026",
-   "titulo": "Subministrament de passarel·les de platja amb material reciclat per la platja d'alcúdia.",
+   "id": "placsp:2026hMA00108",
+   "titulo": "Adquisición de material de lencería y enseres para la Residencia Joaquín Blume del CAR Madrid",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2026/NSP/019",
-   "titulo": "Suministro en exclusiva de gases licuados del petróleo (GLP) envasados en botellas de gas butano, envase tradicional de carga 12,50 kg.",
+   "id": "placsp:2026hMA00064",
+   "titulo": "Servicio asistencia técnica de imagen para realización de cardiorresonancias magnéticas y de estudios de diagnósticos por imagen de alta resolución, resonancia magnética y tomografía axial computeriza",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2025 C003 000006",
-   "titulo": "Mellora do núcleo de Vilar (San Román) e outros, POS+2025",
+   "id": "placsp:056/26-OB",
+   "titulo": "Proyecto de conexión de la tubería de toma de la Presa de Mularroya con la Acequía del Grío e instalación de compuerta de chorro hueco para caudales ecológicos Zg/ La Almunia de Doña Godina. Proyecto ",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:SER/2026/0000117087",
-   "titulo": "Trabajos de colaboracion para la realizacion de controles financieros  sobre a Ayudas financiadas por el FEAGA, POSEI- REA aentidades con la condicion de Pequenas y Micro Empresas previstas en el Plan",
+   "id": "placsp:1711/2026",
+   "titulo": "Dotar al municipio de Navacerrada de un espacio público accesible y diverso mediante la redefinición urbanística y remodelación del\nconjunto de la Plaza de Los Ángeles y la Plaza del Álamo.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:293346-301",
-   "titulo": "A prestación dos servizos de vixilancia e seguridade nas instalacións dos Centros Municipais de Servizos Sociais (CMSS) da Concellería de Política Social: Coia, Rivera-Atienza, Teis e Casco Vello.",
+   "id": "placsp:CS/2026/35",
+   "titulo": "Contratación del servicio de redacción del proyecto constructivo, asistencia técnica a la dirección de obra y coordinación de seguridad y salud de las obras de abastecimiento mancomunado de Monfarraci",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:CM 82/26",
-   "titulo": "Suministro de energía eléctrica para equipamientos gestionados por la Sociedad Pública de Gestión y Promoción Turística y Cultural del Principado de Asturias, SAU",
+   "id": "placsp:SUM-26-0270-AYS",
+   "titulo": "Suministro en régimen de alquiler sin opción de compra (renting) de dos (2) vehículos turismo con destino al parque móvil de umivale Activa (Alicante y Badajoz)",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:6228/2026",
-   "titulo": "Servicio de portería y control de accesos de las aulas de estudio en las dependencias municipales destinadas a ese uso",
+   "id": "placsp:2026-074-O",
+   "titulo": "Contrato mixto de obras y servicios de ejecución del proyecto básico y de ejecución, e integrado de actividad, del nuevo edificio administrativo del centro sanitario municipal de protección animal de ",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:PAS-OB 1160/2026",
-   "titulo": "obra de mejora en la impermeabilización del aparcamiento superior del Hospital Universitario Francesc de Borja de Gandía, según especificaciones descritas en el PPT, respetuoso con el medio ambiente.",
+   "id": "placsp:SUM/2026/0000119619",
+   "titulo": "Realizacion del suministro de 51 equipos de aire acondicionado para el Palacio de Justicia de Vegueta en Las Palmas de GranCanaria, con la finalidad de formar un stock para la sustitucion paulatina de",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:28/26SPF",
-   "titulo": "Suministro e Instalación de un Módulo de Software para la Actualización del Detector Espectral del Sistema de Microscopía Confocal de Barrido Zeiss LSM 990",
+   "id": "placsp:SE13826002814",
+   "titulo": "Control acceso instalaciones deportivas de Cuenca y Albacete. 2 lotes",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:14/26",
-   "titulo": "Suministro de Crio-Microscopio Electrónico de Transmisión de Última Generación, financiado con la ayuda EQC2025-009177-P, Agencia Estatal de investigación, Ministerio de Ciencia, innovación y Universi",
+   "id": "placsp:A37-1026",
+   "titulo": "Contratación del suministro de Gas Natural para el edificio de Cesce, S.A., S.M.E., en Velázquez 74, Madrid.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:TSA0084360",
-   "titulo": "UT3 Ejecución de los trabajos de cerrajería de la obra Residencia de personas mayores y centro de participación activa en Torrecilla en Cameros, La Rioja,  con cargo al Plan de Recuperación, Transform",
+   "id": "placsp:CS176/CARNAVAL 2027",
+   "titulo": "Servicios de instalaciones eléctricas vinculados a la celebración del Carnaval 2027 de Las Palmas de Gran Canaria",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:300/2026/00108",
-   "titulo": "Contrato de suministro de mobiliario, equipamiento y estores para el Centro Deportivo Municipal Entrevías, Instalación Deportiva Municipal Vallecas, Centro Deportivo Municipal Palomeras y Centro Depor",
+   "id": "placsp:10889/2026",
+   "titulo": "Obra de construcción de pabellón polivalente en las casetas del recinto ferial (zona sur) de Hornachuelos por procedimiento abierto, con carga los Planes Provinciales de obras y servicios 2024-2027 de",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:TSA0084081",
-   "titulo": "[UT1] Suministro en obra de hormigón fabricado en central para las obras de acondicionamiento de varias parcelas en el polígono de Wissocq del Puerto de Santander (Cantabria).",
+   "id": "placsp:NSP-4EN8B002",
+   "titulo": "Suministro de forjas de acero inoxidable para tanques TTT",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:PCO001202600559segundalicitacionLote5",
-   "titulo": "Suministro por lotes de material publicitario con destino a la sección de deportes de la Diputación de A Coruña\r\nsegunda licitación Lote 5",
+   "id": "placsp:2026/0000881Y",
+   "titulo": "Contratación suministro e instalación de un sistema de climatización para el Teatro Principal de Castellón.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:0FR3B003",
-   "titulo": "Suministro de chapas de material Z2 CND 17 12",
+   "id": "placsp:75/26",
+   "titulo": "Suministro de forma sucesiva y por precio unitario de objetos necesarios para las atenciones protocolarias y representativas del Ayuntamiento de Málaga.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:2026/AR45U/00002046E",
-   "titulo": "REP26-2018AR001R-016 - Suministro mobiliario para pabellones de cargo de unidades en tierra apoyadas por el ARPAL",
+   "id": "placsp:2026CONTRA0001",
+   "titulo": "Obras de mejora del confort térmico y reducción de consumo energético mediante sustitución de carpinterías exteriores en viviendas de la barriada Manuel Flores con enfoque social y de eficiencia energ",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:1711074R",
-   "titulo": "Servicio de organización y gestión de paquetes de viajes a precio global, para el desarrollo de las escuelas de invierno \"Campaña de Nieve 2027\". 3 Lotes.",
+   "id": "placsp:393/2026/CMA",
+   "titulo": "Suministro de material de merchadising destinados a las campañas de sensibilización y educación ambiental de la Ciudad Autónoma de Melilla (Contrato de Techo de Gasto).",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:66273W/2026",
-   "titulo": "Servicio de preparación y distribución de desayunos, comidas mediante el método de línea caliente y atención temprana en los Centros Escolares de 2º ciclo de Educación Infantil y Primaria de titularid",
+   "id": "placsp:100/2026",
+   "titulo": "Suministro de productos químicos para el tratamiento del agua de la piscina municipal y del agua potable.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:MM/2026/136",
-   "titulo": "Servicios de auditoría externa para el seguimiento y renovación del sistema integrado de gestión de calidad conforme a las normas UNE-EN ISO 9001, UNE-EN ISO 14001 y UNE 179003.",
+   "id": "placsp:CS174/CARNAVAL 2027",
+   "titulo": "Contrato de suministro en régimen de alquiler, montaje y desmontaje de casetas individuales, conjuntos modulares y contenedores para usos varios para el Carnaval 2027 de la ciudad de Las Palmas de Gra",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:CMAYOR/2026/25Y17/0013",
-   "titulo": "Servicio de diseño de formularios y apoyo técnico al Sistema de Información de Atención a la Ciudadanía (SIAC) de la Generalitat mediante procedimiento abierto.",
+   "id": "placsp:2026/036424",
+   "titulo": "7_2-ICLM-2026 Suministro de material de promoción para el desarrollo de actividades conmemorativas del 50.º aniversario de la Transición Política Española en Castilla-La Mancha.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:NSP ARTS 508/26",
-   "titulo": "Suministro de vestuario de stock de la ópera \"La clemenza de Tito\"",
+   "id": "placsp:2026-04546",
+   "titulo": "Servicio de alojamiento y restauración para el personal en servicio de Renfe Mercancías S.M.E., S.A., en Zafra",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:592/2026",
-   "titulo": "El objeto del contrato consiste en la mejora de las condiciones de acceso entre diferentes espacios de la parcela dotacional municipal del entorno La Era, así como la recuperación al uso público del e",
+   "id": "placsp:511202661954",
+   "titulo": "Contrato de suministro de sillas para actos públicos e institucionales de la Coordinación General de la Alcaldía.",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
   },
   {
-   "id": "placsp:12141-106",
-   "titulo": "A prestación do servizo de atención e información ás persoas visitantes durante a campaña de Nadal da cidade de Vigo",
+   "id": "placsp:2026/ES/0034",
+   "titulo": "Servicio de Soporte de los Equipos y Servicios de Red",
    "fuente": "PLACSP",
    "puntuacion": 0,
    "motivos": []
