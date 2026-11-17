@@ -1,8 +1,8 @@
 {
- "generado": "2026-11-17T14:31:57+00:00",
+ "generado": "2026-11-17T14:59:20+00:00",
  "ejecucion": {
   "estado": "completa",
-  "inicio": "2026-11-17T14:23:57+00:00",
+  "inicio": "2026-11-17T14:49:55+00:00",
   "fuentes_no_completadas": [],
   "fuentes": {
    "boe": {
@@ -11,7 +11,7 @@
     "hasta": "2026-11-17",
     "plazo_s": 180,
     "anuncios": 11,
-    "segundos": 0.7,
+    "segundos": 1.02,
     "peticiones": 1,
     "bytes": 405349,
     "detenida": true
@@ -22,7 +22,7 @@
     "hasta": "2026-11-17",
     "plazo_s": 300,
     "anuncios": 35,
-    "segundos": 7.1,
+    "segundos": 3.47,
     "peticiones": 6,
     "bytes": 345839,
     "detenida": true
@@ -33,7 +33,7 @@
     "hasta": "2026-11-17",
     "plazo_s": 300,
     "anuncios": 0,
-    "segundos": 0.73,
+    "segundos": 0.91,
     "peticiones": 1,
     "bytes": 1465,
     "detenida": true
@@ -52,7 +52,7 @@
     "hasta": "2026-11-17",
     "plazo_s": 1200,
     "anuncios": 0,
-    "segundos": 471.07,
+    "segundos": 559.32,
     "peticiones": 1,
     "bytes": 90680588,
     "detenida": true
@@ -62,7 +62,7 @@
  "metricas": {
   "boe": {
    "estado": "ok",
-   "segundos": 0.7,
+   "segundos": 1.02,
    "peticiones": 1,
    "bytes": 405349,
    "anuncios": 11,
@@ -70,7 +70,7 @@
   },
   "ted": {
    "estado": "ok",
-   "segundos": 7.1,
+   "segundos": 3.47,
    "peticiones": 6,
    "bytes": 345839,
    "anuncios": 35,
@@ -78,7 +78,7 @@
   },
   "bdns": {
    "estado": "ok",
-   "segundos": 0.73,
+   "segundos": 0.91,
    "peticiones": 1,
    "bytes": 1465,
    "anuncios": 0,
@@ -94,7 +94,7 @@
   },
   "placsp": {
    "estado": "ok",
-   "segundos": 471.07,
+   "segundos": 559.32,
    "peticiones": 1,
    "bytes": 90680588,
    "anuncios": 0,
@@ -143,16 +143,6 @@
  "pendientes_entrega": [],
  "descartados": [
   {
-   "id": "ted:799302-2026",
-   "titulo": "España – Servicios de ingeniería – Contrato de Servicios (CONTR 2026 0000256565)",
-   "fuente": "TED",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "plazo_cerrado"
-  },
-  {
    "id": "ted:796627-2026",
    "titulo": "España – Servicios de arquitectura, construcción, ingeniería e inspección – Determinar y especificar las características de la contratación para la Oficina Técnica (en adelante OT) del Centro Directiv",
    "fuente": "TED",
@@ -161,6 +151,16 @@
     "CPV núcleo 71300000"
    ],
    "situacion": "desconocida"
+  },
+  {
+   "id": "ted:799302-2026",
+   "titulo": "España – Servicios de ingeniería – Contrato de Servicios (CONTR 2026 0000256565)",
+   "fuente": "TED",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ],
+   "situacion": "plazo_cerrado"
   },
   {
    "id": "ted:797782-2026",
@@ -223,16 +223,16 @@
    "situacion": "desconocida"
   },
   {
-   "id": "ted:798223-2026",
-   "titulo": "España – Servicios de asistencia técnica – Servicio de asistencia modelo concertación territorial PAO",
+   "id": "ted:797328-2026",
+   "titulo": "España – Servicios técnicos – Consultoría y asistencia técnica para el estudio documental, inspección y propuestas de actuación sobre los puentes de la Línea de Alta Velocidad Vitoria-Bilbao-San Sebas",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
    "situacion": "desconocida"
   },
   {
-   "id": "ted:797328-2026",
-   "titulo": "España – Servicios técnicos – Consultoría y asistencia técnica para el estudio documental, inspección y propuestas de actuación sobre los puentes de la Línea de Alta Velocidad Vitoria-Bilbao-San Sebas",
+   "id": "ted:798223-2026",
+   "titulo": "España – Servicios de asistencia técnica – Servicio de asistencia modelo concertación territorial PAO",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
@@ -475,6 +475,16 @@
    "situacion": "desconocida"
   },
   {
+   "id": "ted:797903-2026",
+   "titulo": "España – Servicios técnicos – Asistencia técnica integral a la conservación y mejora de la infraestructura verde municipal de parques y jardines de San Sebastián de los Reyes.",
+   "fuente": "TED",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): conservacion"
+   ],
+   "situacion": "desconocida"
+  },
+  {
    "id": "ted:797783-2026",
    "titulo": "España – Servicios de electricidad – Servicio de mantenimiento preventivo y correctivo en instalaciones eléctricas y servicios de extracción e introducción de bombas en sondeos gestionados por Aguasvi",
    "fuente": "TED",
@@ -491,16 +501,6 @@
    "puntuacion": -5,
    "motivos": [
     "veto (-5): mantenimiento"
-   ],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:797903-2026",
-   "titulo": "España – Servicios técnicos – Asistencia técnica integral a la conservación y mejora de la infraestructura verde municipal de parques y jardines de San Sebastián de los Reyes.",
-   "fuente": "TED",
-   "puntuacion": -5,
-   "motivos": [
-    "veto (-5): conservacion"
    ],
    "situacion": "desconocida"
   },
