@@ -1,41 +1,41 @@
 {
- "generado": "2026-11-16T14:08:13+00:00",
+ "generado": "2026-11-17T14:16:31+00:00",
  "ejecucion": {
   "estado": "completa",
-  "inicio": "2026-11-16T13:56:50+00:00",
+  "inicio": "2026-11-17T14:05:52+00:00",
   "fuentes_no_completadas": [],
   "fuentes": {
    "boe": {
     "estado": "ok",
-    "desde": "2026-11-13",
-    "hasta": "2026-11-16",
+    "desde": "2026-11-16",
+    "hasta": "2026-11-17",
     "plazo_s": 180,
-    "anuncios": 37,
-    "segundos": 2.67,
-    "peticiones": 4,
-    "bytes": 1199835,
+    "anuncios": 30,
+    "segundos": 1.08,
+    "peticiones": 2,
+    "bytes": 784785,
     "detenida": true
    },
    "ted": {
     "estado": "ok",
-    "desde": "2026-11-13",
-    "hasta": "2026-11-16",
+    "desde": "2026-11-16",
+    "hasta": "2026-11-17",
     "plazo_s": 300,
-    "anuncios": 65,
-    "segundos": 8.81,
+    "anuncios": 55,
+    "segundos": 10.47,
     "peticiones": 6,
-    "bytes": 646174,
+    "bytes": 540823,
     "detenida": true
    },
    "bdns": {
     "estado": "ok",
-    "desde": "2026-11-13",
-    "hasta": "2026-11-16",
+    "desde": "2026-11-16",
+    "hasta": "2026-11-17",
     "plazo_s": 300,
-    "anuncios": 12,
-    "segundos": 6.89,
-    "peticiones": 14,
-    "bytes": 147172,
+    "anuncios": 8,
+    "segundos": 5.34,
+    "peticiones": 10,
+    "bytes": 138371,
     "detenida": true
    },
    "buzon": {
@@ -48,11 +48,11 @@
    },
    "placsp": {
     "estado": "ok",
-    "desde": "2026-11-13",
-    "hasta": "2026-11-16",
+    "desde": "2026-11-16",
+    "hasta": "2026-11-17",
     "plazo_s": 1200,
-    "anuncios": 2122,
-    "segundos": 661.45,
+    "anuncios": 0,
+    "segundos": 621.1,
     "peticiones": 1,
     "bytes": 90680588,
     "detenida": true
@@ -62,26 +62,26 @@
  "metricas": {
   "boe": {
    "estado": "ok",
-   "segundos": 2.67,
-   "peticiones": 4,
-   "bytes": 1199835,
-   "anuncios": 37,
+   "segundos": 1.08,
+   "peticiones": 2,
+   "bytes": 784785,
+   "anuncios": 30,
    "detenida": true
   },
   "ted": {
    "estado": "ok",
-   "segundos": 8.81,
+   "segundos": 10.47,
    "peticiones": 6,
-   "bytes": 646174,
-   "anuncios": 65,
+   "bytes": 540823,
+   "anuncios": 55,
    "detenida": true
   },
   "bdns": {
    "estado": "ok",
-   "segundos": 6.89,
-   "peticiones": 14,
-   "bytes": 147172,
-   "anuncios": 12,
+   "segundos": 5.34,
+   "peticiones": 10,
+   "bytes": 138371,
+   "anuncios": 8,
    "detenida": true
   },
   "buzon": {
@@ -94,45 +94,45 @@
   },
   "placsp": {
    "estado": "ok",
-   "segundos": 661.45,
+   "segundos": 621.1,
    "peticiones": 1,
    "bytes": 90680588,
-   "anuncios": 2122,
+   "anuncios": 0,
    "detenida": true
   }
  },
  "ventana": {
-  "desde": "2026-11-13",
-  "hasta": "2026-11-16"
+  "desde": "2026-11-16",
+  "hasta": "2026-11-17"
  },
  "ventanas_por_fuente": {
   "boe": {
-   "desde": "2026-11-13",
-   "hasta": "2026-11-16"
+   "desde": "2026-11-16",
+   "hasta": "2026-11-17"
   },
   "ted": {
-   "desde": "2026-11-13",
-   "hasta": "2026-11-16"
+   "desde": "2026-11-16",
+   "hasta": "2026-11-17"
   },
   "bdns": {
-   "desde": "2026-11-13",
-   "hasta": "2026-11-16"
+   "desde": "2026-11-16",
+   "hasta": "2026-11-17"
   },
   "placsp": {
-   "desde": "2026-11-13",
-   "hasta": "2026-11-16"
+   "desde": "2026-11-16",
+   "hasta": "2026-11-17"
   }
  },
  "pendientes": [],
  "totales": {
-  "brutos": 2236,
+  "brutos": 93,
   "duplicados": 0,
-  "candidatos": 3,
+  "candidatos": 1,
   "ayudas": 0,
   "oportunidades_abiertas": 0,
   "nuevos": 1,
-  "ya_enviados": 2,
-  "descartados": 2233,
+  "ya_enviados": 0,
+  "descartados": 92,
   "avisos_buzon": 0
  },
  "buzon_configurado": false,
@@ -140,38 +140,64 @@
  "avisos": [],
  "candidatos": [
   {
-   "id": "placsp:HIL/2026/01/088",
-   "fuente": "PLACSP",
-   "fecha_publicacion": "2026-11-14",
-   "organismo": "Gerencia del Hospital Intermutual de Levante",
-   "titulo": "Establecimiento de un Sistema Dinámico de Adquisición (SDA) para el suministro de ropería, uniformidad y utillaje del Hospital Intermutual de Levante",
-   "objeto": "Establecimiento de un Sistema Dinámico de Adquisición (SDA) para el suministro de ropería, uniformidad y utillaje del Hospital Intermutual de Levante",
-   "expediente": "HIL/2026/01/088",
-   "importe": "175450 €",
-   "fecha_limite": "2027-12-15",
+   "id": "ted:797038-2026",
+   "fuente": "TED",
+   "fecha_publicacion": "2026-11-17",
+   "organismo": "Secretaría General del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)",
+   "titulo": "España – Hidrógeno, argón, gases nobles, nitrógeno y oxígeno – Suministro de helio líquido y de nitrógeno líquido para el sistema de ECRH del TJ-II",
+   "objeto": "España – Hidrógeno, argón, gases nobles, nitrógeno y oxígeno – Suministro de helio líquido y de nitrógeno líquido para el sistema de ECRH del TJ-II",
+   "expediente": "797038-2026",
+   "importe": "20060",
+   "fecha_limite": "",
    "cpv": [
-    "39500000",
-    "35100000",
-    "33000000",
-    "18000000",
-    "18000000",
-    "35100000",
-    "33000000"
+    "24111000",
+    "24111000"
    ],
    "enlaces": [
-    "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=aD%2B%2BnRygOz3s%2BnLj3vAg5A%3D%3D"
+    "https://ted.europa.eu/es/notice/-/detail/797038-2026"
    ],
-   "puntuacion": 3,
-   "rama": "general",
+   "puntuacion": 5,
+   "rama": "especializada",
    "motivos": [
-    "objeto: utillaje"
+    "entorno extremo: helio",
+    "organismo prioritario: ciemat"
    ],
    "situacion": "desconocida",
    "oportunidad_abierta": false,
-   "motivo_situacion": "plazo 2027-12-15 sin verificar en PLACSP"
+   "motivo_situacion": "sin plazo verificable"
   }
  ],
  "descartados": [
+  {
+   "id": "ted:796627-2026",
+   "titulo": "España – Servicios de arquitectura, construcción, ingeniería e inspección – Determinar y especificar las características de la contratación para la Oficina Técnica (en adelante OT) del Centro Directiv",
+   "fuente": "TED",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:799302-2026",
+   "titulo": "España – Servicios de ingeniería – Contrato de Servicios (CONTR 2026 0000256565)",
+   "fuente": "TED",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ],
+   "situacion": "plazo_cerrado"
+  },
+  {
+   "id": "ted:797782-2026",
+   "titulo": "España – Servicios de ingeniería – Servicios de asistencia técnica para el control de las obras de adecuación de las instalaciones de seguridad en la nueva vía de apartado de 750 metros de la estación",
+   "fuente": "TED",
+   "puntuacion": 2,
+   "motivos": [
+    "CPV núcleo 71300000"
+   ],
+   "situacion": "desconocida"
+  },
   {
    "id": "ted:794297-2026",
    "titulo": "España – Servicios de ingeniería – DIRECCIÓN DE LAS OBRAS, COORDINACIÓN DE SEGURIDAD Y SALUD Y ASISTENCIA TÉCNICA DE LAS OBRAS DE EJECUCIÓN DE INSTALACIONES, Y DE LAS OBRAS DE EJECUCIÓN DE LA SEÑALIZA",
@@ -183,253 +209,13 @@
    "situacion": "desconocida"
   },
   {
-   "id": "ted:789770-2026",
-   "titulo": "España – Servicios de ingeniería – Asistencia técnica de apoyo al personal, propio y ajeno que interviene en la gestión del Consorcio C1 para la gestión de Residuos Domiciliarios del Plan Zonal I",
+   "id": "ted:797880-2026",
+   "titulo": "Francia – Servicios de ingeniería – Prestations d'Ingénierie de sûreté d'installations nucléaires intéressant la défense, neuves, en exploitation ou en démantèlement",
    "fuente": "TED",
    "puntuacion": 2,
    "motivos": [
     "CPV núcleo 71300000"
    ],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:791491-2026",
-   "titulo": "España – Electricidad, calefacción, energías solar y nuclear – Ejecución de un sistema de generación de energía eléctrica de fuentes renovables por medio de la implantación de plantas solares fotovolt",
-   "fuente": "TED",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:792702-2026",
-   "titulo": "Alemania – Servicios de investigación y desarrollo experimental – PR1271387 - Android-Systementwicklung für Audioanwendungen",
-   "fuente": "TED",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 73100000"
-   ],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "placsp:802/2026",
-   "titulo": "Ejecución de un sistema de generación de energía eléctrica de fuentes renovables por medio de la implantación de plantas solares fotovoltaicas, la asistencia técnica para la constitución de una comuni",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "placsp:SE 37/2026",
-   "titulo": "Contrato de servicios para la redacción del Proyecto de Ejecución y Dirección de obra de la actuación 2026/2/edils 4 14  regeneración del entorno plaza de la alpujarra, Órgiva",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "placsp:2026COMP000050",
-   "titulo": "Servicio de extracción, genotipado, ADN, análisis, registro y almacenamiento de muestras caninas en San Fernando de Henares",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 73111000"
-   ],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:18/2026",
-   "titulo": "Asistencia técnica de apoyo al personal, propio y ajeno que interviene en la gestión del Consorcio C1 para la gestión de Residuos Domiciliarios del Plan Zonal I",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "placsp:2333/2026",
-   "titulo": "Servicios de Ingeniería Técnica Industrial, para la asistencia y el asesoramiento técnico en el Ayuntamiento de Sax",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:SCT2026000256",
-   "titulo": "Contrato de servicios para la elaboración del Plan de Movilidad Sostenible al Trabajo de Ayuntamiento de Santa Cruz de Tenerife en cumplimiento del artículo 26 de la Ley 9/2025, de 3 de diciembre, de ",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:B30259331656",
-   "titulo": "30.1168/25;ASV-SGPyO-002 Asistencia técnica para la realización de auditorías de seguridad viaria en el ámbito de la Subdirección General de Proyectos y Obras.",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:2699/2026",
-   "titulo": "PI 87/26 Redacción de proyecto y A.T. a la dirección de obra \"Renovación Muelle Raos 5\"",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "placsp:CAA/2026/256",
-   "titulo": "Asistencia técnica para la redacción del anteproyecto para la ampliación de la ETAP de Rioseco.",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:3.26/40830.0113",
-   "titulo": "Servicios de asistencia técnica para la coordinación en materia de seguridad y salud en las obras de construcción de líneas ferroviarias en el tramo Palencia-Cantabria",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:CMAYOR/2025/AVI00/0005",
-   "titulo": "Servicio de planificación e impartición de acciones formativas y de coordinación y dinamización para la red de Innoagents.",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 73000000"
-   ],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:31/26",
-   "titulo": "Redacción del proyecto constructivo y ejecución de las obras del soterramiento de la Avenida de Valle-Inclán en la intersección con el Camino de Suárez, la Calle Martínez de la Rosa y el acceso a las ",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "placsp:ABR/SERV/2026000044",
-   "titulo": "Contrato de servicios para la Dirección de Obra, la Dirección de Ejecución de Obra y la Coordinación de Seguridad y Salud de las obras de reurbanización de las calles del entorno de \"Los Bloques\", sit",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:XP0348/2024",
-   "titulo": "Redacción del proyecto y la dirección facultativa. Ver apartado B.1) del cuadro de características del PCAP",
-   "fuente": "PLACSP",
-   "puntuacion": 2,
-   "motivos": [
-    "CPV núcleo 71300000"
-   ],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "boe:BOE-B-2026-37056",
-   "titulo": "Anuncio de licitación de: Intendente de Rota. Objeto: (TA) Suministro defensas para los muelles de la Base Naval de Rota. Expediente: 2026/AR46U/00001883E.",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "boe:BOE-B-2026-37059",
-   "titulo": "Anuncio de licitación de: Intendente de Ferrol. Objeto: JINFRAFER. Sostenimiento instalaciones climatización. Expediente: 2026/AR42U/00002602E.",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "boe:BOE-B-2026-37064",
-   "titulo": "Anuncio de licitación de: Intendente de Ferrol. Objeto: JINFRAFER. Varias UCOS. Sostenimiento de equipos de movimiento, arrastre y elevación. Expediente: 2026/AR42U/00002313E.",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "boe:BOE-B-2026-37078",
-   "titulo": "Anuncio de licitación de: Subdirección General de Contratación de Tecnologías de la Información y de las Comunicaciones (TIC). Objeto: Suministro de un sistema de gestión de colas para el anonimizado ",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "boe:BOE-B-2026-37082",
-   "titulo": "Anuncio de licitación de: Comité Ejecutivo del Consorcio de la Zona Franca de Cádiz. Objeto: Obras necesarias para las instalaciones de módulos fotovoltaicos en diferentes ubicaciones y según los proy",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "boe:BOE-B-2026-37088",
-   "titulo": "Anuncio de licitación de: Dirección General de Aviación Civil. Objeto: Servicios de transporte aéreo sometidos a obligaciones de servicio público en las rutas Melilla-Almería/Granada/Sevilla. Expedien",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "boe:BOE-B-2026-37094",
-   "titulo": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Segura. Objeto: Servicios de redacción del proyecto de adecuación del encauzamiento y defensa contra inundaciones en el tramo",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "boe:BOE-B-2026-37096",
-   "titulo": "Anuncio de licitación de: Dirección del Museo Nacional Centro de Arte Reina Sofía. Objeto: Transporte de las obras que participarán en la exposición temporal \"Monir Farmanfarmaian\" . Expediente: 20260",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "boe:BOE-B-2026-37098",
-   "titulo": "Anuncio de licitación de: Gerencia de Atención Sanitaria del Instituto Nacional de Gestión Sanitaria en Ceuta. Objeto: Gestión Integral de Residuos Especiales de los Centros dependientes del Instituto",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "boe:BOE-B-2026-37113",
-   "titulo": "Anuncio de licitación de: Instituto Nacional de Administración Pública (INAP). Objeto: Contrato de servicios de la oficina técnico pedagógica del Instituto Nacional de Administración Pública, O.A. Exp",
-   "fuente": "BOE",
-   "puntuacion": 0,
-   "motivos": [],
    "situacion": "desconocida"
   },
   {
@@ -497,16 +283,120 @@
    "situacion": "desconocida"
   },
   {
-   "id": "ted:796409-2026",
-   "titulo": "España – Servicios de estudios – Acuerdo Marco servicio de conocimiento del cliente de Barcelona de Serveis Municipals, S.A. y Cementiris de Barcelona, S.A.",
+   "id": "boe:BOE-B-2026-37792",
+   "titulo": "Anuncio de licitación de: Inspección General de Sanidad de la Defensa. Objeto: Acuerdo Marco de material para procedimientos de electrofisiología para el HCD - 2A + 2PR. Expediente: 2026/SP01460020/00",
+   "fuente": "BOE",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "boe:BOE-B-2026-37810",
+   "titulo": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-AV-26004; 54.930/26 Pintado de eje, bordes e intersecciones con pintura normal reflexiva y termoplástica de larga duración. Carret",
+   "fuente": "BOE",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "boe:BOE-B-2026-37813",
+   "titulo": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-LU-26004; 51.812/26 Subsanación de ESMAMS identificados en inspecciones principales de seguridad viaria de la N-540 y la N-120 en ",
+   "fuente": "BOE",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "boe:BOE-B-2026-37825",
+   "titulo": "Anuncio de licitación de: Subdirección General de Análisis Presupuestario y Gestión Financiera del Instituto de Mayores y Servicios Sociales . Objeto: Suministro de productos sanitarios con destino al",
+   "fuente": "BOE",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "boe:BOE-B-2026-37827",
+   "titulo": "Modificación de los anuncios de licitación y de formalización de: Dirección del Consorcio para el Diseño, la Construcción, el Equipamiento y la Explotación de la Plataforma Oceánica de Canarias. Objet",
+   "fuente": "BOE",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:797328-2026",
+   "titulo": "España – Servicios técnicos – Consultoría y asistencia técnica para el estudio documental, inspección y propuestas de actuación sobre los puentes de la Línea de Alta Velocidad Vitoria-Bilbao-San Sebas",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
    "situacion": "desconocida"
   },
   {
-   "id": "ted:795691-2026",
-   "titulo": "España – Servicios de asistencia técnica – SERVICIO DE OFICINA TÉCNICA DE APOYO A BIMSA Y A LA DIRECCIÓN DE SERVICIOS DE MOVILIDAD DEL AYUNTAMIENTO DE BARCELONA PARA LA IMPLANTACIÓN, ACTIVACIÓN, SEGUI",
+   "id": "ted:798223-2026",
+   "titulo": "España – Servicios de asistencia técnica – Servicio de asistencia modelo concertación territorial PAO",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:797368-2026",
+   "titulo": "España – Servicios de tratamiento y eliminación de desperdicios y residuos no peligrosos – Contrato para la redacción del proyecto, ejecución de la obra y gestión del Nuevo Centro de Recuperación y Re",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:797221-2026",
+   "titulo": "España – Servicios técnicos – ACTUACIONES EN LA NUEVA LÍNEA DEL CORREDOR MEDITERRÁNEO DE ALTA VELOCIDAD MURCIA – ALMERÍA. VERIFICACIÓN DE LOS SUBSISTEMAS INFRAESTRUCTURA, ENERGÍA Y CONTROL-MANDO Y SEÑ",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:799065-2026",
+   "titulo": "España – Servicios de arquitectura, construcción, ingeniería e inspección – Redacción de proyectos básicos y de ejecución, dirección de obras, coordinación de seguridad y salud y asistencia técnica. F",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:798291-2026",
+   "titulo": "España – Técnico de sonido – Servicio de asistencia profesional técnica permanente para eventos variados y proyectos artísticos en el Auditori i Centre Cultural y otros espacios municipales culturales",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:797698-2026",
+   "titulo": "España – Servicios de instalación de equipo de sonido – Servicios de imagen, sonido e iluminación vinculados a la celebración de los actos de la campaña de Navidad 2026/27 en Las Palmas de Gran Canari",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:798977-2026",
+   "titulo": "España – Construcción de planta depuradora de aguas residuales – Contratación conjunta de elaboración del proyecto y ejecución de las obras de ampliación de la estación depuradora de aguas residuales ",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:799074-2026",
+   "titulo": "España – Servicios de organización de eventos culturales – Prestación de servicios complementarios al funcionamiento del Teatro Municipal Concha Espina de Torrelavega",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:798596-2026",
+   "titulo": "España – Servicios técnicos – ACTUACIONES DE IMPLANTACIÓN DE ANCHO ESTÁNDAR EN LOS TRAMOS VALENCIA - CASTELLÓN Y CASTELLÓN – CAMP DE TARRAGONA DEL CORREDOR MEDITERRÁNEO. LÍNEA L-600 VALÈNCIA ESTACIÒ D",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
@@ -529,6 +419,22 @@
    "situacion": "desconocida"
   },
   {
+   "id": "ted:795691-2026",
+   "titulo": "España – Servicios de asistencia técnica – SERVICIO DE OFICINA TÉCNICA DE APOYO A BIMSA Y A LA DIRECCIÓN DE SERVICIOS DE MOVILIDAD DEL AYUNTAMIENTO DE BARCELONA PARA LA IMPLANTACIÓN, ACTIVACIÓN, SEGUI",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:796409-2026",
+   "titulo": "España – Servicios de estudios – Acuerdo Marco servicio de conocimiento del cliente de Barcelona de Serveis Municipals, S.A. y Cementiris de Barcelona, S.A.",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
    "id": "ted:794875-2026",
    "titulo": "España – Servicios de asistencia técnica – Contrato de servicios de asistencia técnica al procedimiento de concentración parcelaria (Proyecto CP, Acuerdo CP, afitament y tomada depossessió y ARP y tít",
    "fuente": "TED",
@@ -545,128 +451,16 @@
    "situacion": "desconocida"
   },
   {
-   "id": "ted:791374-2026",
-   "titulo": "España – Servicios de consultoría en ingeniería y construcción – Servicio de asistencia técnica a la dirección facultativa del contrato de redacción de proyecto y ejecución de las obras de las instala",
+   "id": "ted:797413-2026",
+   "titulo": "Noruega – Alquiler de embarcaciones de navegación marítima, con tripulación – 26/02018 Hire vessel for environmental and plankton monitoring.",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
    "situacion": "desconocida"
   },
   {
-   "id": "ted:790011-2026",
-   "titulo": "España – Servicios técnicos – ACTUACIONES EN LA NUEVA LÍNEA DEL CORREDOR MEDITERRÁNEO DE ALTA VELOCIDAD MURCIA – ALMERÍA. VERIFICACIÓN DE LOS SUBSISTEMAS INFRAESTRUCTURA, ENERGÍA Y CONTROL-MANDO Y SEÑ",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:792560-2026",
-   "titulo": "España – Servicios técnicos – ACTUACIONES PARA LA INTEGRACIÓN DE LA ALTA VELOCIDAD EN LA CIUDAD DE VALENCIA. FASE 1: CANAL DE ACCESO (SUBFASES 3N Y 4N) L-600, L-300 Y L-040. VERIFICACIÓN DE LOS SUBSIS",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:792683-2026",
-   "titulo": "España – Servicios de asistencia técnica – Servicio de asistencia técnica SETAD",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:790549-2026",
-   "titulo": "España – Servicios técnicos – ACTUACIONES DE IMPLANTACIÓN DE ANCHO ESTÁNDAR EN LOS TRAMOS VALENCIA - CASTELLÓN Y CASTELLÓN – CAMP DE TARRAGONA DEL CORREDOR MEDITERRÁNEO. LÍNEA L-600 VALÈNCIA ESTACIÒ D",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:792499-2026",
-   "titulo": "España – Servicios técnicos – ACTUACIONES DE ADECUACIÓN DE LAS INSTALACIONES DE SEGURIDAD DE LA DEPENDENCIA DE PONTECESURES Y BLOQUEOS EN TRAYECTO DE LA LÍNEA L-818 VILAGARCÍA DE AROUSA – BIF. ANGUEIR",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:790529-2026",
-   "titulo": "España – Servicios de arquitectura, ingeniería y planificación – Servicio de técnico competente para la dirección de las obras de adecuación del alumbrado general a luminarias led del Hospital Univers",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:790187-2026",
-   "titulo": "España – Servicios de telecomunicaciones – Acuerdo Marco para la contratación de servicios e infraestructuras de telecomunicaciones de la infraestructura integral de información para la defensa (I3D)",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:792147-2026",
-   "titulo": "España – Servicios de consultoría en ingeniería civil – ECAS 10370/2026 Servicios para la elaboración y redacción del Plan Integral de Gestión del Sistema de Saneamiento básico de Terrassa, en el marc",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:792673-2026",
-   "titulo": "España – Servicios de luminotecnia y de iluminación natural – El objeto del contrato es la realización del Contrato abierto para el servicio de Instalación de la Iluminación Ornamental Municipal anual",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:790913-2026",
-   "titulo": "España – Elaboración de proyectos y diseños, presupuestos – Redacción de proyectos para la ampliación del canal de Lezo",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:791178-2026",
-   "titulo": "España – Servicios técnicos – ACTUACIONES DE MEJORA DE CAPACIDAD Y FIABILIDAD DE LA L.A.V. MADRID - GALICIA Y ACCESO AL PUERTO EXTERIOR PUNTA LANGOSTEIRA (A CORUÑA). VERIFICACIÓN DE LOS SUBSISTEMAS IN",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:791391-2026",
-   "titulo": "España – Servicios de consultoría en ingeniería civil – Contrato de servicios para la asistencia técnica para la redacción del proyecto constructivo de la línea 9 de metro de Barcelona. Tramo 3º Zona ",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:791876-2026",
-   "titulo": "España – Servicios de consultoría en ingeniería y construcción – Servicio asistencia técnica anàlisis viabilidad y estructuración contratos de concesión obra pública Tramo III L9 Metro Barcelona",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:790464-2026",
-   "titulo": "España – Servicios de asistencia técnica – Servicios de asistencia técnica en expropiaciones del proyecto plataforma de R+D+i en Energías Marinas de Cataluña (PLEMCAT)",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:789953-2026",
-   "titulo": "España – Servicios de salud y seguridad – Servicio de prevención ajeno",
+   "id": "ted:799206-2026",
+   "titulo": "Suiza – Equipo de laboratorio, óptico y de precisión (excepto gafas) – AO Laser ablation system DETCO 2026",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
@@ -681,40 +475,96 @@
    "situacion": "desconocida"
   },
   {
-   "id": "ted:791660-2026",
-   "titulo": "Alemania – Máquinas y aparatos con una función propia – Entwicklung, Herstellung, Test, Lieferung, Installation und Inbetriebnahme von 36 MHz und 108 MHz Solid State RF Amplifier Systemen als Gesamtsy",
+   "id": "ted:797153-2026",
+   "titulo": "Francia – Partes de estructuras – Fourniture de pièces mécaniques pour Modules CTA NectarCAM, pour le LLR du CNRS",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
    "situacion": "desconocida"
   },
   {
-   "id": "ted:791029-2026",
-   "titulo": "Alemania – Válvulas de seguridad – Safety Valves Local Cryo SIS100",
+   "id": "ted:797071-2026",
+   "titulo": "Alemania – Servicios de arquitectura, construcción, ingeniería e inspección – CERI2 - Fachplanung Technische Ausrüstung",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
    "situacion": "desconocida"
   },
   {
-   "id": "ted:792885-2026",
-   "titulo": "Alemania – Instrumentos y aparatos de regulación y control – Gasregelstrecke für Ammoniak - PR1248387-2830-W",
+   "id": "ted:798313-2026",
+   "titulo": "Alemania – Hornos de fusión – Beschaffung einer Versuchsanlage zur induktiven Reduktion von Metalloxiden mittels Wasserstoff unter Vakuum und Druck",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
    "situacion": "desconocida"
   },
   {
-   "id": "ted:792901-2026",
-   "titulo": "Alemania – Trabajos de andamiaje – Gerüst 70-00371-3850-303 - PR1335521-3850-B",
+   "id": "ted:798922-2026",
+   "titulo": "Polonia – Artículos de vidrio para laboratorio – Wyłonienie Wykonawcy w zakresie sukcesywnej dostawy materiałów zużywalnych laboratoryjnych dla jednostek organizacyjnych Uniwersytetu Jagiellońskiego (",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
    "situacion": "desconocida"
   },
   {
-   "id": "ted:793205-2026",
-   "titulo": "Alemania – Ordenadores portátiles – Business-Notebook Rahmenvereinbarung - PR1248160-9782-I",
+   "id": "ted:799306-2026",
+   "titulo": "Alemania – Trabajos de andamiaje – MPI für Meteorologie in Hamburg - Umbau: Gerüstarbeiten",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:798752-2026",
+   "titulo": "Alemania – Servicios de arquitectura y servicios conexos – Fraunhofer-Gesellschaft 80-00031-2800-A1 Objektplanung Gebäude - Rahmenvereinbarung Reg 20_03",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:798320-2026",
+   "titulo": "Alemania – Barcos especializados – Arbeits- und Forschungsboot",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:798448-2026",
+   "titulo": "Alemania – Maquinaria y aparatos microelectrónicos – Fully Automated Wafer Photoresist Strip & Metal Etch Wet Tool - PR1184925-3460-W",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:798732-2026",
+   "titulo": "Alemania – Paquetes de software específico de un sector económico – 3rd party PCIe IP - PR1300395-2440-P",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:798807-2026",
+   "titulo": "Alemania – Servicios de consultoría en integración de software – Rahmenvertrag Anlageneinbindung MES System - PR1242292-9940",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:797186-2026",
+   "titulo": "Alemania – Paquetes de software y sistemas de información – Raumreservierung 2026",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:797960-2026",
+   "titulo": "Alemania – Máquinas diversas para usos especiales – Refurbished dry etch chamber (ISIT-05.2) - PR1130408-2390-P",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
@@ -729,16 +579,32 @@
    "situacion": "desconocida"
   },
   {
-   "id": "ted:796445-2026",
-   "titulo": "Alemania – Trabajos de instalación de accesorios eléctricos – Sicherheitsbeleuchtung 70-00002-2480-19",
+   "id": "ted:792885-2026",
+   "titulo": "Alemania – Instrumentos y aparatos de regulación y control – Gasregelstrecke für Ammoniak - PR1248387-2830-W",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
    "situacion": "desconocida"
   },
   {
-   "id": "ted:793045-2026",
-   "titulo": "Alemania – Trabajos de aislamiento para tejados – Max-Planck-Institut für biologische Kybernetik in Tübingen-Erweiterung Institut (Neubau): Dach",
+   "id": "ted:793205-2026",
+   "titulo": "Alemania – Ordenadores portátiles – Business-Notebook Rahmenvereinbarung - PR1248160-9782-I",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:792901-2026",
+   "titulo": "Alemania – Trabajos de andamiaje – Gerüst 70-00371-3850-303 - PR1335521-3850-B",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
+   "id": "ted:796445-2026",
+   "titulo": "Alemania – Trabajos de instalación de accesorios eléctricos – Sicherheitsbeleuchtung 70-00002-2480-19",
    "fuente": "TED",
    "puntuacion": 0,
    "motivos": [],
@@ -771,6 +637,14 @@
    "situacion": "desconocida"
   },
   {
+   "id": "ted:793045-2026",
+   "titulo": "Alemania – Trabajos de aislamiento para tejados – Max-Planck-Institut für biologische Kybernetik in Tübingen-Erweiterung Institut (Neubau): Dach",
+   "fuente": "TED",
+   "puntuacion": 0,
+   "motivos": [],
+   "situacion": "desconocida"
+  },
+  {
    "id": "ted:796102-2026",
    "titulo": "Alemania – Máquinas diversas para usos especiales – CNC-Industrierobotersystem - PR1306239-2280-W",
    "fuente": "TED",
@@ -779,400 +653,351 @@
    "situacion": "desconocida"
   },
   {
-   "id": "ted:791294-2026",
-   "titulo": "Alemania – Instalación de puertas – Stahlglastüren 70-00010-2460-11",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:792622-2026",
-   "titulo": "Alemania – Trabajos de colocación de cartón-yeso – Trockenbau 70-00010-2460-09",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:791645-2026",
-   "titulo": "Alemania – Equipo de laboratorio, óptico y de precisión (excepto gafas) – Targetplattform",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:791193-2026",
-   "titulo": "Alemania – Microscopios – Integrated Spinning Disk Confocal Live Imaging System",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:791499-2026",
-   "titulo": "Polonia – Impresoras y trazadores gráficos – Wyłonienie Wykonawcy w zakresie dzierżawy urządzeń wielofunkcyjnych dla Jednostek Uniwersytetu Jagiellońskiego (z wyłączeniem Uniwersytetu Jagiellońskiego ",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:789710-2026",
-   "titulo": "Alemania – Instalación de puertas – Stahlglastüren 70-00010-2460-11",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:789755-2026",
-   "titulo": "Alemania – Servicios de prestaciones sociales – RV Beihilfeabrechnung",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:792388-2026",
-   "titulo": "Alemania – Carpintería y ebanistería – Bau 10.40 - Generalsanierung botanisches Institut - Tischlerarbeiten",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:792666-2026",
-   "titulo": "Países Bajos – Máquinas para trabajar caucho o plásticos – Clam-shell Twin-screw Compounding line",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:789792-2026",
-   "titulo": "Alemania – Trabajos de instalación de equipos técnicos de refrigeración – Erweiterung Zentralkälteversorgung 70-00006-3000-75",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:791272-2026",
-   "titulo": "Alemania – Trabajos de colocación de cartón-yeso – Trockenbau 70-00010-2460-09",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:791497-2026",
-   "titulo": "Alemania – Instalación de equipo de telecomunicaciones – Max-Planck-Forschungsstelle für die Wissenschaft der Pathogene, Neubau und Umbau: Fernmelde- und IT-Anlagen",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:791330-2026",
-   "titulo": "Alemania – Servicios de eventos – Location inklusive aller weiteren Dienstleistungen für die Veranstaltung »FIRST by FMD 2027« Berlin",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "ted:790710-2026",
-   "titulo": "Francia – Estaciones meteorológicas – Fourniture et mise en service d'un instrument de mesures météorologiques",
-   "fuente": "TED",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "bdns:942033",
-   "titulo": "Convocatoria instrumental. Agricultura de precisión e innovación tecnológica. ",
+   "id": "bdns:942343",
+   "titulo": "Resolución de la consellera de Industria, Turismo, Innovación y Comercio por la que se regula y concede una subvención directa a la Universitat Jaume I de Castellón, para proyectos de innovación que f",
    "fuente": "BDNS",
    "puntuacion": 0,
    "motivos": [
-    "objeto: innovacion tecnologica",
-    "ámbito estatal",
+    "objeto: proyectos de innovacion",
+    "convocante de la Comunitat Valenciana",
     "no admite empresas (-3): PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
-    "veto (-2): agricultura, pesca"
+    "veto (-2): cultura, turismo"
    ],
    "situacion": "abierta"
   },
   {
-   "id": "placsp:PIC2027_34134",
-   "titulo": "Contratación del servicio de transporte no sanitario de trabajadores protegidos de FRATERNIDAD-MUPRESPA en la provincia de Toledo",
-   "fuente": "PLACSP",
+   "id": "bdns:942334",
+   "titulo": "Resolución de la consellera de Industria, Turismo, Innovación y Comercio por la que se regula y concede una subvención directa a la Universitat de València, para proyectos de innovación que fomenten l",
+   "fuente": "BDNS",
    "puntuacion": 0,
-   "motivos": [],
+   "motivos": [
+    "objeto: proyectos de innovacion",
+    "convocante de la Comunitat Valenciana",
+    "no admite empresas (-3): PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "veto (-2): cultura, turismo"
+   ],
+   "situacion": "abierta"
+  },
+  {
+   "id": "bdns:942269",
+   "titulo": "Orden de 13 de noviembre de 2026 del Ministerio de Ciencia, Innovación y Universidades por la que se convocan por tramitación anticipada las ayudas del programa de movilidad de estudiantes universitar",
+   "fuente": "BDNS",
+   "puntuacion": 0,
+   "motivos": [
+    "objeto (débil): innova",
+    "ámbito estatal",
+    "no admite empresas (-3): PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:6996/2026",
-   "titulo": "Concesión para la explotación de cuatro barras para la caseta municipal durante la celebración de los carnavales 2027.",
-   "fuente": "PLACSP",
+   "id": "bdns:942241",
+   "titulo": "Resolución de la consellera de Industria, Turismo, Innovación y Comercio por la que se regula y concede una subvención directa a la Universitat Politècnica de València, para proyectos de innovación qu",
+   "fuente": "BDNS",
    "puntuacion": 0,
-   "motivos": [],
+   "motivos": [
+    "objeto: proyectos de innovacion",
+    "convocante de la Comunitat Valenciana",
+    "no admite empresas (-3): PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "veto (-2): cultura, turismo"
+   ],
+   "situacion": "abierta"
+  },
+  {
+   "id": "ted:795577-2026",
+   "titulo": "España – Servicios de investigación y desarrollo experimental – prestación del servicio para la manipulación y mantenimiento de animales de laboratorio e instalaciones del Servicio de Experimentación ",
+   "fuente": "TED",
+   "puntuacion": -1,
+   "motivos": [
+    "CPV núcleo 73100000",
+    "veto (-3): mantenimiento"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:CS186/ NAVIDAD 2026-27",
-   "titulo": "Suministro, en Régimen de Alquiler, de una Pista de Hielo Vinculado a la Celebración de los Actos de la Navidad 2026 de la Ciudad de Las Palmas de Gran Canaria.",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "placsp:2026-00338",
-   "titulo": "Prestación de servicios para la representación en la zona del norte de África (Marruecos, Argelia, Túnez y Egipto), para mantener los contactos con las empresas y promover el tráfico de mercancías ent",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "placsp:CS183/ NAVIDAD 2026/27",
-   "titulo": "Servicios de imagen, sonido e iluminación vinculados a la celebración de los actos de la campaña de Navidad 2026/27 en Las Palmas de Gran Canaria.",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "desconocida"
-  },
-  {
-   "id": "placsp:1DGT2B000155",
-   "titulo": "Suministro de prendas y artículos de uniformidad de trabajo para el personal de la Agrupación de Tráfico de la Guardia Civil (8 Lotes)",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "bdns:942393",
+   "titulo": "EJECUCIÓN DE LA SEGUNDA FASE DEL PROYECTO “LOS CUATRO LARGE SIZE TELESCOPE (4LST) DEL CTA-NORTE EN EL ORM_FEDER 2021-2027",
+   "fuente": "BDNS",
+   "puntuacion": -1,
+   "motivos": [
+    "objeto (débil): innova, investigacion",
+    "ámbito estatal",
+    "no admite empresas (-3): PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA",
+    "plazo cerrado el 2026-06-30 (-1)"
+   ],
    "situacion": "plazo_cerrado"
   },
   {
-   "id": "placsp:MY26/VICC/O/103",
-   "titulo": "Obra de construcción del nuevo edificio 5L en el campus de Vera de la Universitat Politècnica de València",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "bdns:942461",
+   "titulo": "Concesión directa de subvenciones con carácter excepcional a favor del Fundación Foro de Marcas Renombradas Españolas durante el ejercicio presupuestario 2026.",
+   "fuente": "BDNS",
+   "puntuacion": -3,
+   "motivos": [
+    "territorio correcto, pero el objeto no dice nada",
+    "no admite empresas (-3): PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "situacion": "abierta"
+  },
+  {
+   "id": "bdns:942267",
+   "titulo": "Convocatoria instrumental CUBA Programa Escuelas Taller 2026 EDUCACIÓN Escuela Taller Gaspar Melchor de Jovellanos ",
+   "fuente": "BDNS",
+   "puntuacion": -3,
+   "motivos": [
+    "territorio correcto, pero el objeto no dice nada",
+    "no admite empresas (-3): PERSONAS JURÍDICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
+   "situacion": "abierta"
+  },
+  {
+   "id": "bdns:942229",
+   "titulo": "Resolución de la Secretaría de Estado de Educación, de 3 de noviembre de 2026, por la que se convocan plazas de asistencia a eventos de formación dentro del marco de la acción eTwinning para el año 20",
+   "fuente": "BDNS",
+   "puntuacion": -3,
+   "motivos": [
+    "territorio correcto, pero el objeto no dice nada",
+    "no admite empresas (-3): PERSONAS FÍSICAS QUE NO DESARROLLAN ACTIVIDAD ECONÓMICA"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:133C/2026",
-   "titulo": "Servicio de complejo deportivo y de ocio de la piscina climatizada",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37622",
+   "titulo": "Anuncio de licitación de: Intendencia de Madrid. Objeto: (OP3) (T.A) JESAT- Mantenimiento de las cubiertas de los edificios de las dependencias (Cod Act INFRA 27-008). Expediente: 2026/AR21U/00001684E",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): mantenimiento"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:2026000086/AYTO/SUMIN/ABR",
-   "titulo": "Renting de vehículos para la Policía Local de Málaga",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37623",
+   "titulo": "Anuncio de licitación de: Intendencia de Madrid. Objeto: (OP3) (T.A) JESAT. - Mantenimiento de albañilería y carpintería de las dependencias (Cod Act INFRA 27-008). Expediente: 2026/AR21U/00001685E.",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): mantenimiento"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:04101/2026/250-O",
-   "titulo": "Obras de construcción de un Edificio de 59 viviendas, locales y garaje en la C/Pintor Sabater, esquina con C/ Ángel Villena. Sector Quatre Carreres.-",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37636",
+   "titulo": "Anuncio de licitación de: Intervención General de la Administración del Estado. Objeto: Contrato de instalación, explotación y mantenimiento de máquinas expendedoras con venta automática en la sede de",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): mantenimiento"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:118/2026",
-   "titulo": "Mejora acceso zona deportiva de Benigembla",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37637",
+   "titulo": "Anuncio de licitación de: Dirección del Servicio de Gestión Económica de la Agencia Estatal de la Administración Tributaria. Objeto: Diseño e impartición de formación sobre Primeros Auxilios y Socorri",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): vigilancia, formacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:Z27IN004/D40",
-   "titulo": "Asistencia técnica en tecnología PPM de Opentext  con destino a la Dirección General de la Policía.",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37640",
+   "titulo": "Anuncio de licitación de: División Económica y Técnica (Cuerpo Nacional de Policía). Objeto: Contratación mantenimiento y suministro consumibles para impresión de un mínimo de 90.720 paquetes de 1000 ",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): mantenimiento"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:SE-42-26",
-   "titulo": "Servicios de asesoría y defensa jurídica a la Universidad de Huelva",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37646",
+   "titulo": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-H-26002; 54.866/26 Rehabilitación del firme en la Autovía A-49 entre los pp.kk.116,210 a 132,860. Provincia de Huelva. 32-H-5220. ",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): rehabilitacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:ABI2026/13/MIXTO(SUM/SERV) (1919037E)",
-   "titulo": "Suministro y servicio de iluminación extraordinaria de fiestas en el término municipal de Pinoso (Casco urbano y pedanías)",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37652",
+   "titulo": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Guadalquivir. Objeto: Contrato de servicios para el control y vigilancia de las obras de proyecto constructivo de nuevo depós",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): vigilancia"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:119/2026",
-   "titulo": "Mejora red de distribución de agua potable",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37654",
+   "titulo": "Anuncio de licitación de: Junta de Compensación del APE 10.23 Instalaciones Militares de Campamento. Objeto: Servicios de Control de Calidad de las obras de Urbanización de las Fases 1 y 2 y conexione",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): urbanizacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:2026/2879",
-   "titulo": "Suministro de materiales, servicios y obras necesarios para la ejecución de varias obras incluidas en el Programa para el Fomento del Empleo Agrario Ordinario 2025.",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:2026/ASU/000600",
-   "titulo": "Suministro de  Equipos de Protección Individual para el personal operativo del Servicio de Prevención, Extinción de Incendios y Salvamento del Ayuntamiento de Sevilla.",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:26-793",
-   "titulo": "Suministro de productos químicos con formulación estándar para diversas instalaciones de EMASA (lotes desiertos del expte. 26-744).",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37655",
+   "titulo": "Anuncio de licitación de: Junta de Compensación del APE 10.23 Instalaciones Militares de Campamento. Objeto: Servicios de Dirección Facultativa de las obras de Urbanización de las Fases 1 y 2 y las co",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): urbanizacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:2026/ETSAE0111/00000784",
-   "titulo": "Apoyo logístico operativo y administrativo para el sostenimiento del material de intendencia del Parque y Centro de Abastecimiento de Material de Intendencia",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37656",
+   "titulo": "Anuncio de licitación de: Junta de Compensación del APE 10.23 Instalaciones Militares de Campamento. Objeto: Servicios de Coordinador de Seguridad y Salud de las obras de Urbanización de las Fases 1 y",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): urbanizacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:CON21-2026/0331",
-   "titulo": "Asistencia técnica para los servicios complementarios de intervención familiar",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37658",
+   "titulo": "Anuncio de licitación de: Dirección del Museo Nacional Centro de Arte Reina Sofía. Objeto: Servicio de mantenimiento integral de las instalaciones de los edificios que componen el Museo Nacional Centr",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): mantenimiento"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:2026_11029_COAS_00001",
-   "titulo": "Terminación de la Plaza del Castellar",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37803",
+   "titulo": "Anuncio de licitación de: Persona Titular de la Delegación de Economía y Hacienda en Melilla. Objeto: Prestación del servicio de limpieza en las oficinas de la DEH de Melilla. Expediente: 200000562026",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): limpieza"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:2026-7",
-   "titulo": "Suministro de un vehículo turismo tipo SUV compacto",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37811",
+   "titulo": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: 30.854/26; AT-ZA-26005 Asistencia técnica a la inspección del contrato de concesión para la ejecución, conservación y explotación de ",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): conservacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:4851/2026",
-   "titulo": "Servicio de alquiler de autobuses con conductor para el transporte de participantes en las actividades y eventos organizados por el Ilustre Ayuntamiento de Teror.",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37812",
+   "titulo": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: 30.1026/26; AT-CON-26002 Consultoría y asistencia técnica para la gestión técnica de las obras de la Subdirección General de Conserva",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): conservacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:CONT-2026000057",
-   "titulo": "Suministro 6 coches, mediante arrendamiento, para la  Policía Local de Torre Pacheco.",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37814",
+   "titulo": "Anuncio de licitación de: Dirección General de Carreteras. Objeto: OC-TE-26002; 54.709/26 Rehabilitación del firme en la autovía A-23, entre los PP.KK. 141+000 y 181+050, tramo: Santa Eulalia - Calamo",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): rehabilitacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:2610CPRAE024",
-   "titulo": "Concurso de Proyectos, con intervención de Jurado, para la Recuperación de las Bajadas Cubiertas del Palacio Real de Madrid y su conexión con el Campo del Moro.",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37818",
+   "titulo": "Anuncio de licitación de: Presidencia de la Confederación Hidrográfica del Ebro. Objeto: Conservación y mantenimiento de los canales del Najerilla y sus acequias. Campañas 2027-2028. Expediente: 082/2",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): mantenimiento, conservacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:SUMIN/ABR/2026000129",
-   "titulo": "Suministro de vehículos y maquinaria específica con destino a la diputación provincial de Ourense, así como la enajenación de vehículos y maquinaria usada",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "boe:BOE-B-2026-37823",
+   "titulo": "Anuncio de licitación de: Dirección del Instituto Nacional de Gestión Sanitaria (INGESA). Objeto: Servicio integral de asistencia y soporte técnico para la dirección, seguimiento, evaluación y control",
+   "fuente": "BOE",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): mantenimiento"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:AM PA SCS 2026/163",
-   "titulo": "Acuerdo marco para la prestacion del servicio de oficina de seguridad para el Servicio Cantabro de Salud y resto de entidades sanitarias del sistema sanitario publico de Cantabria mediante Procedimien",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "ted:797903-2026",
+   "titulo": "España – Servicios técnicos – Asistencia técnica integral a la conservación y mejora de la infraestructura verde municipal de parques y jardines de San Sebastián de los Reyes.",
+   "fuente": "TED",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): conservacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:SER/2026/0000221411",
-   "titulo": "El objeto del presente documento es la prestacion del servicio de asistencia integral a la Agencia Tributaria Canaria durante lacampana del Impuesto sobre la Renta de las Personas Fisicas IRPFcorrespo",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "ted:797783-2026",
+   "titulo": "España – Servicios de electricidad – Servicio de mantenimiento preventivo y correctivo en instalaciones eléctricas y servicios de extracción e introducción de bombas en sondeos gestionados por Aguasvi",
+   "fuente": "TED",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): mantenimiento"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:364/2026",
-   "titulo": "Transferencia y tratamiento de residuos municipales no peligrosos",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "ted:798690-2026",
+   "titulo": "España – Servicios de control técnico – Servicio de coordinación en materia de seguridad y salud durante la ejecución de las obras relacionadas con el ciclo integral del agua incluidas las obras de Ma",
+   "fuente": "TED",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): mantenimiento"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:2026-078-S",
-   "titulo": "Suministro de armamento y equipamiento para la Policía Local de Palma (8 lotes)",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "ted:798274-2026",
+   "titulo": "España – Servicios técnicos – Servicios de asistencia técnica para el control y vigilancia en la ejecución de la obra de construcción de afecciones a instalaciones de seguridad para la ampliación a 75",
+   "fuente": "TED",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): vigilancia"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:CD008/26",
-   "titulo": "Suministro de una atracción para el Parque Infantil de Tenerife (PIT) \"Top Gun/Space Loop/La Pala\"",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "ted:796623-2026",
+   "titulo": "España – Material de iluminación y lámparas eléctricas – Contratación mixta de suministro, en régimen de alquiler, y servicio de instalación, mantenimiento y desmontaje de la iluminación artística con",
+   "fuente": "TED",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): mantenimiento"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:172/2026/170",
-   "titulo": "Suministros protocolarios para actos que organiza o colabora el Área de Promoción y Dinamización Municipal, Protocolo, Turismo y Fiestas del Ayuntamiento de Paterna, dividido en 7 lotes.",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "ted:800014-2026",
+   "titulo": "España – Servicios de consultoría en salud y seguridad – Servicio de prevención ajeno en la especialidad de vigilancia de la salud, formación específica sobre riesgos laborales y evaluaciones de riesg",
+   "fuente": "TED",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): vigilancia, formacion"
+   ],
    "situacion": "desconocida"
   },
   {
-   "id": "placsp:2026/000105-PCA",
-   "titulo": "suministro de dieciseis (16) vehículos contra incendios y salvamento con destino al sistema bomberos provincia de sevilla",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
-   "situacion": "plazo_cerrado"
-  },
-  {
-   "id": "placsp:CA007/26",
-   "titulo": "Suministro de una atracción para el Parque Infantil de Tenerife (PIT) \"El Pulpo\"",
-   "fuente": "PLACSP",
-   "puntuacion": 0,
-   "motivos": [],
+   "id": "ted:793213-2026",
+   "titulo": "España – Derivados del petróleo, combustibles, electricidad y otras fuentes de energía – Servicios energéticos para la gestión energética del alumbrado público exterior y sus infraestructuras asociada",
+   "fuente": "TED",
+   "puntuacion": -5,
+   "motivos": [
+    "veto (-5): combustible"
+   ],
    "situacion": "desconocida"
   }
  ]
